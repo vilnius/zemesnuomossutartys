@@ -9,3 +9,5 @@ Deja, šiuo metu sistema, kurioje apskaitomi žemės sklypai neturi galimybės p
 Tokiu atveju galima sužinoti, kad pvz. Akcinė bendrovė "Vilniaus šilumos tinklai" sumokėjo 3140536.33 litų už visus savo sklypus (2015-07-10 dienos duomenimis).
 
 Privačių asmenų išsinuomavusių žemę privatumas saugomas duomenis nuasmeninus. Paliktas tik mokėtojo kodas, kad išliktų ryšys tarp abiejų failų bei asmens inicialai.
+
+Duomenys atnaujinami kasdien, 21:20.

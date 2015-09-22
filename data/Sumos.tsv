@@ -372,6 +372,7 @@
 1235	1001235	Uždaroji akcinė bendrovė "ELONIKA"	3568.32	LTL
 1236	1001236	Uždaroji akcinė bendrovė "GALVANINĖ CHEMIJA"	2800.89	LTL
 1239	1001239	Uždaroji akcinė bendrovė "RESPUBLIKOS" INVESTICIJA	42802.14	LTL
+1241	1001241	288 - GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	252.25	EUR
 1241	1001241	288 - GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	3483.92	LTL
 1242	1001242	Garažo patalpų, esančių A. P. Kavoliuko g. 8a, Vilniuje, savininkų bendrija	1480.20	LTL
 1243	0	M.T.	260.33	LTL
@@ -485,6 +486,7 @@
 1468	0	B.S.	148.91	LTL
 1471	0	A.Š.	1020.59	LTL
 1477	0	G.B.	533.93	LTL
+1480	1001480	Uždaroji akcinė bendrovė "LIUMEKSIS". Išieškojimas	12891.42	EUR
 1481	1001481	Valstybės įmonė "Vilniaus pilių direkcija"	26956.34	LTL
 1495	0	E.V.	169.04	LTL
 1500	0	A.K.	32.38	LTL
@@ -626,7 +628,7 @@
 1826	0	G.S.	96.31	LTL
 1827	0	N.B.P.	44.84	LTL
 1828	1001828	373 - oji garažų statybos ir eksploatavimo bendrija	1195.38	LTL
-1829	1001829	566-oji garažų statybos ir eksploatavimo bendrija. Išieškojimas.	2004.33	EUR
+1829	1001829	566-oji garažų statybos ir eksploatavimo bendrija. Išieškojimas.	1593.00	EUR
 1830	1001830	456-oji garažų statybos ir eksploatavimo bendrija	1943.60	LTL
 1831	1001831	480-oji garažų statybos ir eksploatavimo bendrija	1654.56	LTL
 1832	1001832	Uždaroji akcinė bendrovė "SENAMIESČIO SADUTĖ"	10699.35	LTL
@@ -927,7 +929,7 @@
 2495	0	M.K.	387.08	LTL
 2503	0	I.K.	2805.40	LTL
 2505	0	M.J.	449.51	LTL
-2506	0	A.Š.	200.00	EUR
+2506	0	A.Š.	448.03	EUR
 2507	0	J.S.	995.31	LTL
 2515	0	I.P.	545.39	LTL
 2516	0	S.G.	1881.15	LTL
@@ -942,6 +944,7 @@
 2527	1002527	Sodininkų bendrija "PAŽANGA"	108.25	LTL
 2529	1002529	Sodininkų bendrija ''Kūryba''	72.04	LTL
 2533	1002533	34-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija	4732.40	LTL
+2533	1002533	34-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija	342.65	EUR
 2535	0	D.J.	262.02	LTL
 2536	0	R.S.	817.14	LTL
 2539	1002539	2-oji metalinių garažų bendrija "KERNAVĖ"	11913.13	LTL
@@ -1006,6 +1009,7 @@
 2675	0	R.K.	1056.49	LTL
 2676	0	E.M.	118.26	LTL
 2678	1002678	Sodininkų bendrija "ŽALIASODIS"	1415.97	LTL
+2679	1002679	Sodininkų bendrija "PANERYS"	62.00	EUR
 2679	1002679	Sodininkų bendrija "PANERYS"	859.00	LTL
 2680	1002680	Sodininkų bendrija "SODŽIUS - 4"	1429.08	LTL
 2682	1002682	Sodininkų bendrija "Šaltalankis"	423.36	LTL
@@ -1640,6 +1644,7 @@
 4246	1004246	Sodininkų bendrija "LELIJA"	175.58	LTL
 4247	1004247	Sodininkų bendrija "ZYLĖ"	495.24	LTL
 4248	1004248	Sodininkų bendrija "TYLA"	745.64	LTL
+4248	1004248	Sodininkų bendrija "TYLA"	53.99	EUR
 4249	1004249	Sodininkų bendrija "EKSPRESAS"	420.45	LTL
 4250	1004250	Sodininkų bendrija "RESTAURATORIUS"	367.22	LTL
 4251	1004251	Sodininkų bendrija "PLANETA"	784.48	LTL
@@ -1689,6 +1694,7 @@
 4376	0	J.V.	180.98	LTL
 4377	1004377	R. Ragausko firma "AUTOKAMERA"	1787.65	LTL
 4378	1004378	Uždaroji akcinė bendrovė "VILNIAUS RENTINYS"	15399.90	LTL
+4379	1004379	Uždaroji akcinė bendrovė "KONSMETA"	155.24	EUR
 4379	1004379	Uždaroji akcinė bendrovė "KONSMETA"	2540.87	LTL
 4380	1004380	Uždaroji akcinė bendrovė "ELMORIS"	12617.99	LTL
 4382	1004382	Uždaroji akcinė bendrovė "VITENDA"	865.32	LTL
@@ -1780,7 +1786,7 @@
 4615	0	Z.M.	359.11	LTL
 4620	0	V.B.	1353.00	LTL
 4622	1004622	21 - oji laikinų metalinių garažų statybos ir eksploatavimo bendrija. Išieškojimas.	29246.84	LTL
-4622	1004622	21 - oji laikinų metalinių garažų statybos ir eksploatavimo bendrija. Išieškojimas.	929.24	EUR
+4622	1004622	21 - oji laikinų metalinių garažų statybos ir eksploatavimo bendrija. Išieškojimas.	1029.24	EUR
 4624	0	A.R.	2259.10	LTL
 4627	0	V.M.	853.22	LTL
 4628	0	P.M.	2424.73	LTL
@@ -1961,6 +1967,7 @@
 5091	1005091	540-oji garažų statybos ir eksploatavimo bendrija	1432.00	LTL
 5095	1005095	Sodininkų bendrija "TURNIŠKES"	372.62	LTL
 5099	1005099	411-oji garažų statybos ir eksploatavimo bendrija	4219.06	LTL
+5099	1005099	411-oji garažų statybos ir eksploatavimo bendrija	201.27	EUR
 5100	0	R.T.	322.92	LTL
 5102	1005102	405-oji garažų statybos ir eksploatavimo bendrija	1570.20	LTL
 5103	0	M.S.	288.16	LTL
@@ -2099,6 +2106,7 @@
 5472	0	J.K.	215.98	LTL
 5474	0	J.O.	337.83	LTL
 5476	0	Z.S.	445.14	LTL
+5480	0	J.J.	77.51	EUR
 5480	0	J.J.	1070.52	LTL
 5482	0	Č.M.	676.94	LTL
 5484	0	D.A.	55.93	LTL
@@ -2114,6 +2122,7 @@
 5532	0	L.K.	494.80	LTL
 5533	0	V.L.	1313.98	LTL
 5535	0	S.S.	971.76	LTL
+5539	0	J.N.	49.00	EUR
 5546	0	I.B.	239.41	LTL
 5547	0	P.C.	203.21	EUR
 5552	0	Z.R.	780.81	LTL
@@ -2131,6 +2140,7 @@
 5577	1005577	Uždaroji akcinė bendrovė "VILOKTA"	2446.70	EUR
 5577	1005577	Uždaroji akcinė bendrovė "VILOKTA"	10309.43	LTL
 5584	0	R.G.	58.74	LTL
+5593	1005593	287-oji garažų statybos ir eksploatavimo bendrija	167.38	EUR
 5593	1005593	287-oji garažų statybos ir eksploatavimo bendrija	2311.72	LTL
 5594	1005594	289-oji garažų statybos ir eksploatavimo bendrija	952.12	LTL
 5595	1005595	543-oji daugiabučio namo savininkų bendrija	221.58	LTL
@@ -2273,6 +2283,7 @@
 5957	0	V.L.	638.14	LTL
 5961	1005961	Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras	4090.84	LTL
 5962	0	D.P.	148.25	LTL
+5963	1005963	Bendra Lietuvos - JAV - Belgijos įmonė uždaroji akcinė bendrovė "BALTMEDA"	55.25	EUR
 5963	1005963	Bendra Lietuvos - JAV - Belgijos įmonė uždaroji akcinė bendrovė "BALTMEDA"	190.78	LTL
 5964	1005964	Uždaroji akcinė bendrovė "INTER SE"	346.00	LTL
 5965	1005965	UAB "NRD"	1573.01	LTL
@@ -2336,7 +2347,7 @@
 7282	1006157	Uždaroji akcinė bendrovė "DEKORAS"	23756.36	LTL
 7283	1006158	Uždaroji akcinė bendrovė "HAKONLITA"	791107.09	LTL
 7284	1006159	UAB "VALPIRUS"	18580.12	LTL
-7285	1006160	A.Karaciejienės personali įmonė "AURELIJA ir Ko"	555.00	EUR
+7285	1006160	A.Karaciejienės personali įmonė "AURELIJA ir Ko"	655.00	EUR
 7285	1006160	A.Karaciejienės personali įmonė "AURELIJA ir Ko"	2757.56	LTL
 7287	0	A.V.	132.08	LTL
 7288	1006163	UAB „RAIGESTA“	8158.38	LTL
@@ -2385,6 +2396,7 @@
 7332	1006207	AKCINĖ BENDROVĖ "SUSKYSTINTOS DUJOS"	121787.82	LTL
 7333	1006208	Vygento Ličio firma "Evita"	2574.83	LTL
 7334	1006209	Uždaroji akcinė bendrovė "RIMAS IR JONAS"	22105.28	LTL
+7335	1006210	Akcinė bendrovė "Požeminiai darbai"	434.18	EUR
 7335	1006210	Akcinė bendrovė "Požeminiai darbai"	5996.56	LTL
 7337	0	N.K.	14329.60	LTL
 7338	1006213	UAB „KOMERCIJOS VYSTYMO KOMPANIJA-2“ ("Selvaag Lietuva")	33618.13	LTL
@@ -2392,6 +2404,7 @@
 7341	1006216	Sodininkų bendrija "GEOLOGAS"	570.23	LTL
 7342	1006217	Akcinė bendrovė "VILNIAUS SIGMA"	297562.68	LTL
 7343	1006218	UŽDAROJI AKCINĖ BENDROVĖ "SULTYS"	36365.00	LTL
+7344	0	J.N.I.	1542.17	EUR
 7345	1006220	UAB "ALPILRA"	2846.64	LTL
 7346	1006221	Uždaroji akcinė bendrovė "KULGINTA"	4896.44	LTL
 7347	1006222	Uždaroji akcinė bendrovė "ŽYMINYS"	9709.24	LTL
@@ -2463,9 +2476,10 @@
 7419	1006294	Uždaroji akcinė bendrovė "VILNIAUS SAULUTĖ"	5111.43	LTL
 7420	0	G.Š.	7987.24	LTL
 7422	1006297	UAB "Rengmės" mažmena. Išieškojimas. Bankrotas 2013-03-26. Likvidavimas 2014-06-23	288.06	LTL
-7423	1006298	AKCINĖ BENDROVĖ "SPAUDA". Išieškojimas . Restrūktūrizacija 2014-05-15	284.20	EUR
+7423	1006298	AKCINĖ BENDROVĖ "SPAUDA". Išieškojimas . Restrūktūrizacija 2014-05-15	426.30	EUR
 7423	1006298	AKCINĖ BENDROVĖ "SPAUDA". Išieškojimas . Restrūktūrizacija 2014-05-15	5700.00	LTL
 7424	0	P.I.	6112.89	LTL
+7425	1006300	Uždaroji akcinė bendrovė "HERMEDA"	473.48	EUR
 7425	1006300	Uždaroji akcinė bendrovė "HERMEDA"	58937.96	LTL
 7426	1006301	Uždaroji akcinė bendrovė "VORTO"	3336.64	LTL
 7428	1006303	ĮI Žukausko firma "Bukra". Bankrotas 2009-03-16. Likvidavimas 2011-02-02. Išregistruota 2012-07-05.	367.50	LTL
@@ -2481,6 +2495,7 @@
 7437	1006312	A. Šukio firma "ELEKTROKOMPLEKTAS"	35767.91	LTL
 7438	1006313	Uždaroji akcinė bendrovė "LEGERTAS"	26393.24	LTL
 7439	1006314	J. Gabriūnienės firma "Stetiškių ūkis"	2313.59	LTL
+7441	1006316	Uždaroji akcinė bendrovė "GASTA"	20000.00	EUR
 7441	1006316	Uždaroji akcinė bendrovė "GASTA"	908220.50	LTL
 7442	1006317	Uždaroji akcinė bendrovė "ABROSA"	1948.42	LTL
 7443	1006318	Uždaroji akcinė bendrovė transporto firma "TRANSMITTO"	40493.06	LTL
@@ -2509,7 +2524,9 @@
 7475	1006350	Sodininkų bendrija "RIEŠUTAS"	1126.86	LTL
 7476	1006351	Uždaroji akcinė bendrovė "OMNITEL"	30128.99	LTL
 7477	1006352	UAB "Centrum" (mokėtojas yra įmonė su trumpu kodu)	80484.28	LTL
+7478	1006353	464-oji garažų statybos ir eksploatavimo bendrija	355.66	EUR
 7478	1006353	464-oji garažų statybos ir eksploatavimo bendrija	4912.16	LTL
+7479	1006354	Uždaroji akcinė bendrovė "PLAUNU PATS" (buv."Liestara")	2764.70	EUR
 7479	1006354	Uždaroji akcinė bendrovė "PLAUNU PATS" (buv."Liestara")	21545.01	LTL
 7480	1006355	Uždaroji akcinė bendrovė "NESTE LIETUVA"	2500.00	EUR
 7480	1006355	Uždaroji akcinė bendrovė "NESTE LIETUVA"	99430.62	LTL
@@ -2627,6 +2644,7 @@
 7620	1006495	Sodininkų bendrija "TULPĖ"	375.36	LTL
 7622	1006497	UAB „VYSTYK“.Išieškojimas.	4088.59	EUR
 7622	1006497	UAB „VYSTYK“.Išieškojimas.	21520.59	LTL
+7623	1006498	UAB "PRAMOGŲ BANKAS"	2000.00	EUR
 7623	1006498	UAB "PRAMOGŲ BANKAS"	66869.24	LTL
 7624	0	M.R.	20274.81	LTL
 7626	1006501	UAB "TIMIDUS"	.11	EUR
@@ -2800,6 +2818,7 @@
 7825	0	V.P.	22651.60	LTL
 7826	0	J.P.	4132.70	LTL
 7827	0	S.Ž.	275.12	LTL
+7828	1006703	501-oji garažų statybos ir eksploatavimo bendrija	124.48	EUR
 7828	1006703	501-oji garažų statybos ir eksploatavimo bendrija	1719.20	LTL
 7829	1006704	Uždaroji akcinė bendrovė "VIKDAGIS"	1161.90	LTL
 7830	0	U.M.	4598.07	LTL
@@ -2865,6 +2884,7 @@
 7901	0	G.G.	680.95	LTL
 7902	1006777	UAB "LAVUS". Išieškojimas. Bankrotas 2012-03-30. Likvidavimas 2012-06-28 .	350.12	LTL
 7904	1006779	Uždaroji akcinė bendrovė EUROVISTOS SERVISAS". Išieškojimas.	16308.05	LTL
+7906	1006781	593-oji garažų statybos ir eksploatavimo bendrija	245.84	EUR
 7906	1006781	593-oji garažų statybos ir eksploatavimo bendrija	2546.49	LTL
 7908	1006783	Uždaroji akcinė bendrovė "KERAMIKOS MENO CENTRAS"	1376.03	LTL
 7909	1006784	Uždaroji akcinė bendrovė "VILNIAUS DAILĖ"	2480.56	LTL
@@ -2923,7 +2943,7 @@
 7977	1006852	Uždaroji akcinė bendrovė "TADMAKSAS"	78.00	EUR
 7978	1006853	Uždaroji akcinė bendrovė "VYTUKAI" . Ieškinys	16855.68	LTL
 7979	1006854	T.Sivickio individuali įmonė "FREMTAS"	19222.20	LTL
-7980	0	V.S.	50.00	EUR
+7980	0	V.S.	90.00	EUR
 7980	0	V.S.	3548.76	LTL
 7981	0	J.O.	190.00	EUR
 7981	0	J.O.	3548.76	LTL
@@ -3003,6 +3023,7 @@
 8068	1006943	Uždaroji akcinė bendrovė "KOOPERACIJOS PASLAUGA"	14928.72	LTL
 8069	1006944	Uždaroji akcinė bendrovė "FEGDA"	109148.64	LTL
 8071	1006946	Uždaroji akcinė bendrovė "Autokurtas"	2804.48	LTL
+8075	1006950	UŽDAROJI AKCINĖ BENDROVĖ "STOP SERVIS"	200.00	EUR
 8075	1006950	UŽDAROJI AKCINĖ BENDROVĖ "STOP SERVIS"	15161.82	LTL
 8076	1006951	UAB "VILNIAUS AUTOTRANSPORTAS"	26124.15	LTL
 8078	0	J.S.	165.00	EUR
@@ -3100,6 +3121,7 @@
 8200	0	E.D.	133.00	LTL
 8201	0	E.G.	130.42	LTL
 8202	1007077	Uždaroji akcinė bendrovė "ŠVARUS MIESTAS"	5353.00	LTL
+8204	1007079	Uždaroji akcinė bendrovė "BURVIAI". Išieškojimas.	9661.70	EUR
 8205	1007080	Uždaroji akcinė bendrovė "LIETUVOS KINAS"	21944.00	LTL
 8206	1007081	Uždaroji akcinė bendrovė "Stiklių viešbutis"	47497.72	LTL
 8207	1007082	410 - oji garažų statybos ir eksploatavimo bendrija	1615.00	LTL
@@ -3111,6 +3133,7 @@
 8214	1007089	Uždaroji akcinė bendrovė "VILNIAUS ŽALGIRIO DENGTAS PLAUKIMO BASEINAS"	39640.00	LTL
 8215	1007090	Uždaroji akcinė bendrovė "SKANĖJA"	4546.00	LTL
 8217	1007092	429-oji garažų statybos ir eksploatavimo bendrija	1449.44	LTL
+8218	0	I.G.	486.63	EUR
 8218	0	I.G.	6441.40	LTL
 8219	0	D.B.	187.20	LTL
 8220	0	I.G.	187.20	LTL
@@ -3133,7 +3156,7 @@
 8240	1007115	UAB "Virnadė". Išieškojimas.	37.07	EUR
 8240	1007115	UAB "Virnadė". Išieškojimas.	7543.49	LTL
 8241	1007116	386-oji garažų statybos ir eksploatavimo bendrija	3333.64	LTL
-8242	1007117	UŽDAROJI AKCINĖ BENDROVĖ "LOKSODROMA". Išieškojimas .	1200.00	EUR
+8242	1007117	UŽDAROJI AKCINĖ BENDROVĖ "LOKSODROMA". Išieškojimas .	1400.00	EUR
 8242	1007117	UŽDAROJI AKCINĖ BENDROVĖ "LOKSODROMA". Išieškojimas .	17065.54	LTL
 8243	0	A.K.	8836.66	LTL
 8244	1007119	UAB "ŠEIMYNIŠKIŲ VERSLO CENTRAS"	1.58	EUR
@@ -3292,6 +3315,7 @@
 8427	0	L.R.	526.31	LTL
 8429	1007304	Uždaroji akcinė bendrovė "PATENTINIŲ PASLAUGŲ CENTRAS"	3051.04	LTL
 8430	0	G.T.	11.12	LTL
+8432	1007307	Uždaroji akcinė bendrovė "DŽAMINA"	1551.35	EUR
 8432	1007307	Uždaroji akcinė bendrovė "DŽAMINA"	21925.34	LTL
 8434	0	T.R.U.	558.96	LTL
 8436	1007311	Bendra Lietuvos ir Vokietijos įmonė uždaroji akcinė bendrovė "MBR PARDUOTUVIŲ IR RESTORANŲ ĮRANGA"	10881.12	LTL
@@ -3399,6 +3423,7 @@
 8552	0	V.U.	9871.86	LTL
 8553	1007428	630-oji garažų statybos ir eksploatavimo bendrija	772.17	LTL
 8554	1007429	282-oji garažų statybos ir eksploatavimo bendrija	3350.72	LTL
+8554	1007429	282-oji garažų statybos ir eksploatavimo bendrija	242.61	EUR
 8555	1007430	Uždaroji akcinė bendrovė "VILNIAUS STIKLAS"	35099.72	LTL
 8556	1007431	Uždaroji akcinė bendrovė "LBR oil" (Buvusi UAB "Oranda")	10540.20	LTL
 8557	1007432	Uždaroji akcinė bendrovė "LITAMILK"	46321.20	LTL
@@ -3454,7 +3479,7 @@
 9598	1007491	303-OJI GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	1868.48	LTL
 9601	1007494	285 - oji garažų statybos ir eksploatavimo bendrija	2780.14	LTL
 9601	1007494	285 - oji garažų statybos ir eksploatavimo bendrija	159.53	EUR
-9602	1007495	Uždaroji akcinė bendrovė"BUMOVA". Išieškojimas.	60.30	EUR
+9602	1007495	Uždaroji akcinė bendrovė"BUMOVA". Išieškojimas.	69.56	EUR
 9602	1007495	Uždaroji akcinė bendrovė"BUMOVA". Išieškojimas.	5188.13	LTL
 9603	1007496	Uždaroji akcinė bendrovė "Gera spalva"	4109.13	LTL
 9605	1007498	256-oji garažų statybos ir eksploatavimo bendrija"RAMYBĖ"	6117.15	LTL
@@ -3499,6 +3524,7 @@
 9659	1007552	Uždaroji akcinė bendrovė "VILNIAUS BOČIAI"	32291.09	LTL
 9660	1007553	Uždaroji akcinė bendrovė "ĄŽUOLAS LAZDYNUOSE"	754.59	EUR
 9660	1007553	Uždaroji akcinė bendrovė "ĄŽUOLAS LAZDYNUOSE"	18063.95	LTL
+9661	1007554	Uždaroji akcinė bendrovė"GELEŽIES LAUŽAS". BANKROTAS 2014-12-22	1828.44	EUR
 9662	1007555	Akcinė bendrovė "ORLEN Lietuva"	15164.23	LTL
 9663	0	Z.C.	3172.42	LTL
 9664	0	V.C.	4494.79	LTL
@@ -3523,8 +3549,8 @@
 9686	1007579	Z. Kubiliūno personalinė įmonė "VISAGALIS"	6271.52	LTL
 9687	0	Z.K.	1330.25	LTL
 9688	1007581	Uždaroji akcinė bendrovė "DAGRIS"	1477.29	LTL
-9691	1007584	546 - oji garažų statybos ir eksploatavimo bendrija	640.85	LTL
-9692	0	Č.Ž.	16.56	LTL
+9691	1007584	546 - oji garažų statybos ir eksploatavimo bendrija	30.39	EUR
+9691	1007584	546 - oji garažų statybos ir eksploatavimo bendrija	657.41	LTL
 9693	0	L.J.	248.26	LTL
 9694	0	E.V.	881.54	LTL
 9695	0	R.K.	43.05	LTL
@@ -3921,6 +3947,7 @@
 10203	1008096	509-oji garažų statybos ir eksploatavimo bendrija	1303.59	LTL
 10204	0	E.A.	178.52	LTL
 10207	1008100	UAB "TENISO PASAULIS"	13735.24	LTL
+10209	1008102	608-oji garažų statybos ir eksploatavimo bendrija	186.50	EUR
 10209	1008102	608-oji garažų statybos ir eksploatavimo bendrija	1931.46	LTL
 10211	1008104	533-oji garažų statybos ir eksploatavimo bendrija	1055.82	LTL
 10212	0	J.S.	1725.07	EUR
@@ -4010,6 +4037,7 @@
 10301	0	J.K.	1008.09	EUR
 10302	0	E.Ž.	1245.23	LTL
 10305	0	I.J.	947.46	LTL
+10307	1008200	Lietuvos ir Vokietijos uždaroji akcinė bendrovė "KREISEL VILNIUS"	74.36	EUR
 10307	1008200	Lietuvos ir Vokietijos uždaroji akcinė bendrovė "KREISEL VILNIUS"	662.43	LTL
 10308	0	A.Z.	1082.98	LTL
 10310	1008203	450-oji garažų statybos ir eksploatavimo bendrija	1041.56	LTL
@@ -4980,6 +5008,7 @@
 17350	0	A.K.	177.57	LTL
 17351	0	A.G.	99.57	EUR
 17351	0	A.G.	131.42	LTL
+17356	1012159	Uždaroji akcinė bendrovė "INOVACINIAI PROJEKTAI"	1162.29	EUR
 17357	0	I.K.	944.95	LTL
 17360	0	R.R.	91.37	LTL
 17361	0	J.R.	32.89	LTL
@@ -4993,6 +5022,7 @@
 17373	0	V.V.	71.20	LTL
 17374	1012177	UŽDAROJI AKCINĖ BENDROVĖ "LATLITA" (iš BĮ98-163 Lietuvos ir Latvijos uždaroji akcinė bendrovė "LATLITA")	39.64	EUR
 17377	1012180	Uždaroji akcinė bendrovė "GREITISTA"	386.44	LTL
+17382	0	Č.V.	108.51	EUR
 17383	0	Ž.R.	52.00	LTL
 17384	0	V.J.	17.00	LTL
 17385	0	A.T.	17.00	LTL
@@ -5162,6 +5192,7 @@
 17604	0	P.C.	187.61	LTL
 17605	0	O.Z.	78.58	LTL
 17610	0	T.J.M.	14.02	LTL
+17611	1012413	Uždaroji akcinė bendrovė koncernas "SBA"	96.60	EUR
 17616	0	V.K.	142.05	LTL
 17618	0	A.K.	14.00	LTL
 17622	0	A.L.	66.45	LTL
@@ -5211,6 +5242,7 @@
 17705	0	U.J.d.c.	537.00	LTL
 17706	0	A.I.	29.06	LTL
 17707	0	L.R.T.f.".	286.24	LTL
+17707	0	L.R.T.f.".	82.88	EUR
 17708	0	U.B.	559.44	EUR
 17710	0	I.B.	74.86	LTL
 17711	0	U.".	150.00	LTL
@@ -5329,3 +5361,4 @@
 17847	0	B.A.	9.59	EUR
 17851	0	G.A.M.Q.	5.24	EUR
 17852	0	U.".e.s.	437.64	EUR
+17853	0	J.B.	24.00	EUR

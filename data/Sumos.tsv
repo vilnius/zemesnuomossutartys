@@ -1218,6 +1218,7 @@
 3131	0	N.S.	543.48	LTL
 3132	0	A.R.	679.35	LTL
 3134	1003134	344 GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	9305.58	LTL
+3135	1003135	338-oji garažų statybos ir eksploatavimo bendrija	115.45	EUR
 3135	1003135	338-oji garažų statybos ir eksploatavimo bendrija	1594.44	LTL
 3136	1003136	339-oji garažų statybos ir eksploatavimo bendrija	1733.68	LTL
 3137	1003137	UAB "REAL HOUSE"	1700.15	LTL
@@ -2285,6 +2286,7 @@
 5962	0	D.P.	148.25	LTL
 5963	1005963	Bendra Lietuvos - JAV - Belgijos įmonė uždaroji akcinė bendrovė "BALTMEDA"	55.25	EUR
 5963	1005963	Bendra Lietuvos - JAV - Belgijos įmonė uždaroji akcinė bendrovė "BALTMEDA"	190.78	LTL
+5964	1005964	Uždaroji akcinė bendrovė "INTER SE"	100.21	EUR
 5964	1005964	Uždaroji akcinė bendrovė "INTER SE"	346.00	LTL
 5965	1005965	UAB "NRD"	1573.01	LTL
 5966	1005966	Uždaroji akcinė bendrovė "Unitechna"	749.28	LTL
@@ -2585,6 +2587,7 @@
 7547	1006422	Uždaroji akcinė bendrovė "KELIŲ TIESĖJŲ ATESTAVIMO CENTRAS"	10214.88	LTL
 7548	1006423	UAB "Logistina"	10720.87	LTL
 7549	1006424	Uždaroji akcinė bendrovė "MEDALPAS"	11235.11	LTL
+7551	1006426	Uždaroji akcinė bendrovė Naujasodžio agrofirma	30000.00	EUR
 7551	1006426	Uždaroji akcinė bendrovė Naujasodžio agrofirma	453223.39	LTL
 7554	1006429	Uždaroji akcinė bendrovė "BALTICDECOR". Išieškojimas .	647.42	EUR
 7554	1006429	Uždaroji akcinė bendrovė "BALTICDECOR". Išieškojimas .	2477.70	LTL
@@ -3011,6 +3014,7 @@
 8055	0	B.B.	1110.34	LTL
 8056	1006931	Uždaroji akcinė bendrovė "Regiva"	3334.50	LTL
 8057	1006932	UAB „BALDŲ GALERIJA“. Išieškojimas. (bakroto iškėlimo data 2013-03-21). Likvidavimas 2013-11-22	15392.00	LTL
+8058	1006933	Uždaroji akcinė bendrovė "MEDSANTA"	25.17	EUR
 8058	1006933	Uždaroji akcinė bendrovė "MEDSANTA"	349.96	LTL
 8059	0	R.J.	3855.60	LTL
 8060	0	Č.M.	1930.09	LTL
@@ -3315,7 +3319,7 @@
 8427	0	L.R.	526.31	LTL
 8429	1007304	Uždaroji akcinė bendrovė "PATENTINIŲ PASLAUGŲ CENTRAS"	3051.04	LTL
 8430	0	G.T.	11.12	LTL
-8432	1007307	Uždaroji akcinė bendrovė "DŽAMINA"	1551.35	EUR
+8432	1007307	Uždaroji akcinė bendrovė "DŽAMINA"	1579.32	EUR
 8432	1007307	Uždaroji akcinė bendrovė "DŽAMINA"	21925.34	LTL
 8434	0	T.R.U.	558.96	LTL
 8436	1007311	Bendra Lietuvos ir Vokietijos įmonė uždaroji akcinė bendrovė "MBR PARDUOTUVIŲ IR RESTORANŲ ĮRANGA"	10881.12	LTL
@@ -3379,6 +3383,7 @@
 8505	1007380	UAB "JP MANUFACTORY"	1282.92	LTL
 8508	1007383	Uždaroji akcinė bendrovė DOMUS centras	49246.78	LTL
 8509	1007384	Uždaroji akcinė bendrovė "SAUDA"	4773.60	LTL
+8510	1007385	UAB "KUUSAKOSKI"	3478.40	EUR
 8510	1007385	UAB "KUUSAKOSKI"	48040.92	LTL
 8511	1007386	359-oji garažų statybos ir eksploatavimo bendrija	929.26	LTL
 8512	1007387	Bendra Lietuvos ir Rusijos įmonė uždaroji akcinė bendrovė "VILEKA"	57.21	LTL
@@ -3872,7 +3877,7 @@
 10106	1007999	Uždaroji akcinė bendrovė "GINTĖ"	110.15	EUR
 10106	1007999	Uždaroji akcinė bendrovė "GINTĖ"	1121.97	LTL
 10107	1008000	Uždaroji akcinė bendrovė "SLYDA". Išieškojimas.	4644.26	LTL
-10108	1008001	Uždaroji akcinė bendrovė "VISINGA"	1440.00	EUR
+10108	1008001	Uždaroji akcinė bendrovė "VISINGA"	2160.00	EUR
 10108	1008001	Uždaroji akcinė bendrovė "VISINGA"	14341.77	LTL
 10109	0	B.B.	365.30	LTL
 10111	1008004	Uždaroji akcinė bendrovė "VILNIAUS KLEVAS"	19680.12	LTL
@@ -3944,6 +3949,7 @@
 10199	1008092	UAB "TIKURAS"	1690.18	LTL
 10201	1008094	Uždaroji akcinė bendrovė "PALIŪTIS"	39178.64	LTL
 10202	1008095	Uždaroji akcinė bendrovė "SUNVILA"	14193.24	LTL
+10203	1008096	509-oji garažų statybos ir eksploatavimo bendrija	125.85	EUR
 10203	1008096	509-oji garažų statybos ir eksploatavimo bendrija	1303.59	LTL
 10204	0	E.A.	178.52	LTL
 10207	1008100	UAB "TENISO PASAULIS"	13735.24	LTL
@@ -4076,7 +4082,7 @@
 10345	1008238	Uždaroji akcinė bendrovė "NAUJOJI VILNIA"	570.60	LTL
 10346	0	E.K.	1245.57	LTL
 10347	1008240	Uždaroji akcinė bendrovė "VEGESTA"	5576.60	LTL
-10348	1008241	Uždaroji akcinė bendrovė "VALMO". Išieškojimas.	1170.00	EUR
+10348	1008241	Uždaroji akcinė bendrovė "VALMO". Išieškojimas.	2340.00	EUR
 10348	1008241	Uždaroji akcinė bendrovė "VALMO". Išieškojimas.	64220.61	LTL
 10349	0	S.G.	276.86	LTL
 10350	1008243	Akcinė bendrovė "DVARČIONIŲ KER AMIKA".šieškojimas. RESTRŪKTŪRIZAIJA. 2015-07-23 restr. nutraukta	69453.47	LTL
@@ -4468,6 +4474,7 @@
 13374	0	U.A.B.".Ū.	1657.60	LTL
 13376	0	U.a.b.".s.	8200.00	LTL
 13377	0	J.V.	57.00	LTL
+13378	0	U.".	33.96	EUR
 13378	0	U.".	469.08	LTL
 13379	0	7.d.n.s.b.	10145.00	LTL
 13380	0	U.".	2854.66	LTL

@@ -560,7 +560,7 @@
 1669	0	K.P.	12.09	LTL
 1670	1001670	UAB "PAS LAUMĘ". Išieškojimas.	14869.37	LTL
 1671	1001671	UAB "DIDŽIOJI RAMUNĖ"	27864.80	LTL
-1672	1001672	Uždaroji akcinė bendrovė "AAA Astorija"	3291.06	EUR
+1672	1001672	Uždaroji akcinė bendrovė "AAA Astorija"	4936.59	EUR
 1672	1001672	Uždaroji akcinė bendrovė "AAA Astorija"	90906.96	LTL
 1673	0	E.H.	598.76	LTL
 1675	1001675	PRO KAPITAL VILNIUS REAL ESTATE UAB	1305.92	LTL
@@ -2266,6 +2266,7 @@
 5887	0	A.A.	5.42	LTL
 5889	1005889	431-oji garažų statybos ir eksploatavimo bendrija	320.76	LTL
 5890	1005890	369A-oji garažų statybos ir eksploatavimo bendrija	1420.50	LTL
+5890	1005890	369A-oji garažų statybos ir eksploatavimo bendrija	72.41	EUR
 5891	1005891	380 - oji garažų statybos ir eksploatavimo bendrija	63.90	EUR
 5891	1005891	380 - oji garažų statybos ir eksploatavimo bendrija	1171.80	LTL
 5893	1005893	UAB "Miesto centro turtas"	44959.84	LTL
@@ -2430,6 +2431,7 @@
 7362	1006237	Uždaroji akcinė bendrovė"ALMIGA". Išieškojimas.	134949.55	LTL
 7362	1006237	Uždaroji akcinė bendrovė"ALMIGA". Išieškojimas.	4499.59	EUR
 7363	1006238	UAB "AUTOLĖVA". Išieškojimas.	3896.25	LTL
+7364	1006239	Vilniaus miesto žemės ūkio bendrovė "PANERIO VAIRAS"	2191.64	EUR
 7364	1006239	Vilniaus miesto žemės ūkio bendrovė "PANERIO VAIRAS"	30269.20	LTL
 7365	0	M.K.Ž.	2416.20	LTL
 7366	0	I.I.Ž.	2133.55	LTL
@@ -2500,7 +2502,7 @@
 7437	1006312	A. Šukio firma "ELEKTROKOMPLEKTAS"	35767.91	LTL
 7438	1006313	Uždaroji akcinė bendrovė "LEGERTAS"	26393.24	LTL
 7439	1006314	J. Gabriūnienės firma "Stetiškių ūkis"	2313.59	LTL
-7441	1006316	Uždaroji akcinė bendrovė "GASTA"	20000.00	EUR
+7441	1006316	Uždaroji akcinė bendrovė "GASTA"	40000.00	EUR
 7441	1006316	Uždaroji akcinė bendrovė "GASTA"	908220.50	LTL
 7442	1006317	Uždaroji akcinė bendrovė "ABROSA"	1948.42	LTL
 7443	1006318	Uždaroji akcinė bendrovė transporto firma "TRANSMITTO"	40493.06	LTL
@@ -3777,6 +3779,7 @@
 9970	1007863	Uždaroji akcinė bendrovė "OLIZARŲ RŪMAI"	.21	EUR
 9970	1007863	Uždaroji akcinė bendrovė "OLIZARŲ RŪMAI"	40992.48	LTL
 9972	1007865	Uždaroji akcinė bendrovė "ATSPARA"	26650.00	LTL
+9975	1007868	Uždaroji akcinė bendrovė "ELPAVA"	2226.00	EUR
 9975	1007868	Uždaroji akcinė bendrovė "ELPAVA"	67010.36	LTL
 9976	1007869	Uždaroji akcinė bendrovė "ŠVAROS PASAULIS"	988.22	LTL
 9977	1007870	Uždaroji akcinė bendrovė "Elstila"	1447.89	LTL
@@ -4321,7 +4324,7 @@
 12810	1009382	D. Jurėno personalinė įmonė	1684.11	LTL
 12811	1009383	Uždaroji akcinė bendrovė "Morita"	26531.24	LTL
 12825	1009397	Uždaroji akcinė bendrovė "VIZORA"	11471.00	LTL
-12826	1009398	A.Andrejevo tikroji ūkinė bendrija "Dyzelservisas"	506.00	EUR
+12826	1009398	A.Andrejevo tikroji ūkinė bendrija "Dyzelservisas"	759.00	EUR
 12826	1009398	A.Andrejevo tikroji ūkinė bendrija "Dyzelservisas"	13990.36	LTL
 12846	1009418	Akcinė bendrovė "PUNTUKAS"	61541.18	LTL
 12862	1009434	Uždaroji akcinė bendrovė "DELIKATA"	6384.56	LTL
@@ -4390,6 +4393,7 @@
 13195	1009767	UAB "AGVYSTA"	2826.60	LTL
 13196	1009768	"Met-plast-kolor" Jozef Gralla i Eugeniusz Gu owski SP.CYW (Lenkija). Išieškojimas.	2698.10	LTL
 13203	1009775	UAB „DŽEIRANOS AGROSERVISAS“	9252.32	LTL
+13204	1009776	LENKIJOS RESPUBLIKOS AMBASADA	1628.04	EUR
 13204	1009776	LENKIJOS RESPUBLIKOS AMBASADA	22492.53	LTL
 13205	1009777	RIBOTOS ATSAKOMYBES BENDRIJA QUANTUS CONSULTING LLP, reg. d. 2006.09.19	12762.76	LTL
 13206	1009778	UAB "Wallys"	59.64	LTL
@@ -4962,6 +4966,7 @@
 17262	1012065	UAB "Sapiegos Namai"	9122.20	LTL
 17265	1012068	UAB "Projektavimo ir restauravimo institutas"	150.54	LTL
 17265	1012068	UAB "Projektavimo ir restauravimo institutas"	107.94	EUR
+17267	1012070	UAB "OZO PROJEKTAS"	1410.00	EUR
 17270	1012073	UAB "ADAMPOLIS-NT"	49223.21	LTL
 17271	1012074	Sodininkų bendrija "Pavilnys"	216.00	LTL
 17272	1012075	UAB "Transtiros nekilnojamasis turtas"	9731.84	LTL
@@ -5380,3 +5385,4 @@
 17851	0	G.A.M.Q.	5.24	EUR
 17852	0	U.".e.s.	437.64	EUR
 17853	0	J.B.	24.00	EUR
+17959	0	U.a.b.".	664.82	EUR

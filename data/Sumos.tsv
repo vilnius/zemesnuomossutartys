@@ -1263,8 +1263,8 @@
 2436	0	N.B.	523.00	LTL
 2442	0	J.Č.	.73	LTL
 2443	0	J.P.	492.53	LTL
-2444	1002444	637-oji garažų statybos ir eksploatavimo bendrija	59.99	EUR
-2444	1002444	637-oji garažų statybos ir eksploatavimo bendrija	2079.00	LTL
+2444	1002444	637-oji garažų statybos ir eksploatavimo bendrija	89.55	EUR
+2444	1002444	637-oji garažų statybos ir eksploatavimo bendrija	2112.00	LTL
 2446	0	V.K.	127.59	LTL
 2447	0	L.M.	1921.69	LTL
 2447	0	L.M.	91.80	EUR
@@ -1508,6 +1508,7 @@
 2825	1002825	Akcinė bendrovė "LIETUVOS DUJOS"	225549.80	LTL
 2825	1002825	Akcinė bendrovė "LIETUVOS DUJOS"	9558.75	EUR
 2828	0	B.L.	267.32	LTL
+2829	1002829	UAB „LINSANA“	230.07	EUR
 2830	1002830	UAB „TOLERUM“. Bankrotas. 2011-10 -25. Likvidavimas 2012-03-30	420.95	EUR
 2830	1002830	UAB „TOLERUM“. Bankrotas. 2011-10 -25. Likvidavimas 2012-03-30	16051.63	LTL
 2831	1002831	Uždaroji akcinė bendrovė "KELIAS"	13306.15	LTL
@@ -1889,6 +1890,7 @@
 3490	0	I.M.	198.90	LTL
 3491	0	V.B.	336.20	LTL
 3495	0	A.T.	1653.54	LTL
+3495	0	A.T.	79.88	EUR
 3496	0	S.P.	41.62	EUR
 3496	0	S.P.	603.66	LTL
 3497	0	I.Z.	113.56	LTL
@@ -2109,6 +2111,7 @@
 3860	0	D.T.	143.88	EUR
 3861	0	E.D.	602.75	LTL
 3861	0	E.D.	171.61	EUR
+3864	0	V.T.	42.42	EUR
 3866	0	V.K.	.04	LTL
 3867	0	K.M.	447.14	LTL
 3867	0	K.M.	25.70	EUR
@@ -3294,7 +3297,7 @@
 7347	1006222	Uždaroji akcinė bendrovė "ŽYMINYS"	703.01	EUR
 7347	1006222	Uždaroji akcinė bendrovė "ŽYMINYS"	9709.24	LTL
 7348	1006223	Uždaroji akcvinė bendrovė "ELISA"	4687.11	LTL
-7348	1006223	Uždaroji akcvinė bendrovė "ELISA"	451.41	EUR
+7348	1006223	Uždaroji akcvinė bendrovė "ELISA"	1170.21	EUR
 7349	1006224	Uždaroji akcinė bendrovė "HIDROMA"	4487.34	LTL
 7350	0	D.R.	3126.16	LTL
 7352	1006227	UAB „F valda“	3800.00	LTL
@@ -3873,6 +3876,7 @@
 7809	0	E.S.	107.02	EUR
 7810	1006685	A. Černiuk individuali įmonė	1247.76	LTL
 7811	1006686	389-oji garažų statybos ir eksploatavimo bendrija	1456.75	LTL
+7811	1006686	389-oji garažų statybos ir eksploatavimo bendrija	105.82	EUR
 7812	1006687	Uždaroji akcinė bendrovė "RYŠIŲ STATYBA"	2110.89	EUR
 7812	1006687	Uždaroji akcinė bendrovė "RYŠIŲ STATYBA"	28682.39	LTL
 7813	0	I.K.I.	3082.27	EUR
@@ -4035,6 +4039,7 @@
 7938	1006813	Valstybės įmonė DISTANCINIŲ TYRIMŲ IR GEOINFORMATIKOS CENTRAS "GIS-CENTRAS" (Valstybinis distancinių tyrimų ir geoinformatikos centras GIS - CENTRAS")	986.21	EUR
 7938	1006813	Valstybės įmonė DISTANCINIŲ TYRIMŲ IR GEOINFORMATIKOS CENTRAS "GIS-CENTRAS" (Valstybinis distancinių tyrimų ir geoinformatikos centras GIS - CENTRAS")	13620.80	LTL
 7939	1006814	Uždaroji akcinė bendrovė "VILBAIVA"	34315.66	LTL
+7939	1006814	Uždaroji akcinė bendrovė "VILBAIVA"	1977.00	EUR
 7940	1006815	Akcinė bendrovė "Ventus-Nafta"	1680.07	EUR
 7940	1006815	Akcinė bendrovė "Ventus-Nafta"	23184.88	LTL
 7942	1006817	Uždaroji akcinė bendrovė "ELŽBIETOS SALONAS"	108.61	EUR
@@ -5367,7 +5372,7 @@
 9970	1007863	Uždaroji akcinė bendrovė "OLIZARŲ RŪMAI"	40992.48	LTL
 9972	1007865	Uždaroji akcinė bendrovė "ATSPARA"	1929.59	EUR
 9972	1007865	Uždaroji akcinė bendrovė "ATSPARA"	26650.00	LTL
-9975	1007868	Uždaroji akcinė bendrovė "ELPAVA"	7226.00	EUR
+9975	1007868	Uždaroji akcinė bendrovė "ELPAVA"	11358.96	EUR
 9975	1007868	Uždaroji akcinė bendrovė "ELPAVA"	67010.36	LTL
 9976	1007869	Uždaroji akcinė bendrovė "ŠVAROS PASAULIS"	134.44	EUR
 9976	1007869	Uždaroji akcinė bendrovė "ŠVAROS PASAULIS"	988.22	LTL
@@ -7392,8 +7397,6 @@
 17558	0	U.a.b.I.	489.50	EUR
 17562	0	U.".S.	6271.74	LTL
 17562	0	U.".S.	1131.00	EUR
-17563	0	V.S.	9.56	EUR
-17563	0	V.S.	33.00	LTL
 17564	0	U.".g.	4485.61	LTL
 17564	0	U.".g.	4566.09	EUR
 17565	0	U.V.L.	250.00	LTL

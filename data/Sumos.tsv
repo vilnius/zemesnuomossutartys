@@ -48,8 +48,8 @@
 117	0	J.Ž.	330.99	LTL
 118	0	A.J.P.	217.44	LTL
 121	0	Č.V.	225.41	LTL
-125	0	Z.R.	139.90	LTL
-125	0	Z.R.	45.46	EUR
+125	0	Z.R.(.	139.90	LTL
+125	0	Z.R.(.	45.46	EUR
 126	0	S.M.	220.80	LTL
 126	0	S.M.	15.96	EUR
 127	0	A.R.	43.00	EUR
@@ -405,6 +405,7 @@
 1101	0	M.P.	33.60	EUR
 1101	0	M.P.	580.96	LTL
 1102	0	S.J.	217.98	LTL
+1102	0	S.J.	12.62	EUR
 1104	0	A.R.	2.00	LTL
 1109	0	I.G.	580.05	LTL
 1109	0	I.G.	33.60	EUR
@@ -1166,6 +1167,7 @@
 2294	1002294	40-oji laikinų metalinių garažų statybos ir eksploatavimo bendrija	13727.00	LTL
 2295	1002295	9-oji laikinųjų metalinių garažų statybos ir eksploatavimo bendrija	6804.52	LTL
 2295	1002295	9-oji laikinųjų metalinių garažų statybos ir eksploatavimo bendrija	667.29	EUR
+2296	1002296	402-oji garažų statybos ir eksploatavimo bendrija	534.11	EUR
 2297	1002297	Uždaroji akcinė bendrovė "TAUTINYS"	422.80	EUR
 2297	1002297	Uždaroji akcinė bendrovė "TAUTINYS"	5844.68	LTL
 2299	1002299	400-oji garažų statybos ir eksploatavimo bendrija	1695.52	LTL
@@ -2354,7 +2356,7 @@
 4388	1004388	Uždaroji akcinė bendrovė "LIMPA"	729.92	LTL
 4388	1004388	Uždaroji akcinė bendrovė "LIMPA"	52.85	EUR
 4389	1004389	Akcinė bendrovė "PLASTA"	32453.69	LTL
-4389	1004389	Akcinė bendrovė "PLASTA"	1.38	EUR
+4389	1004389	Akcinė bendrovė "PLASTA"	2593.41	EUR
 4390	1004390	UAB "RI INVEST". Išieškojimas.	4132.35	EUR
 4390	1004390	UAB "RI INVEST". Išieškojimas.	43021.23	LTL
 4393	1004393	Uždaroji akcinė bendrovė „PROFISA“	135.16	EUR
@@ -3318,7 +3320,7 @@
 7361	1006236	UAB "LIVILA"	400.74	EUR
 7361	1006236	UAB "LIVILA"	5582.39	LTL
 7362	1006237	Uždaroji akcinė bendrovė"ALMIGA". Išieškojimas.	134949.55	LTL
-7362	1006237	Uždaroji akcinė bendrovė"ALMIGA". Išieškojimas.	25041.41	EUR
+7362	1006237	Uždaroji akcinė bendrovė"ALMIGA". Išieškojimas.	25106.29	EUR
 7363	1006238	UAB "AUTOLĖVA". Išieškojimas.	157.95	EUR
 7363	1006238	UAB "AUTOLĖVA". Išieškojimas.	3896.25	LTL
 7364	1006239	Vilniaus miesto žemės ūkio bendrovė "PANERIO VAIRAS"	2191.64	EUR
@@ -3515,6 +3517,7 @@
 7509	1006384	Uždaroji akcinė bendrovė "MANTILĖ"	1359.44	LTL
 7510	1006385	Uždaroji akcinė bendrovė "GRINLITA"	37.07	EUR
 7510	1006385	Uždaroji akcinė bendrovė "GRINLITA"	511.92	LTL
+7511	0	A.Z.	26.80	EUR
 7511	0	A.Z.	466.08	LTL
 7512	1006387	Uždaroji akcinė bendrovė "VILGRA"	637.17	EUR
 7512	1006387	Uždaroji akcinė bendrovė "VILGRA"	11179.62	LTL
@@ -4311,7 +4314,7 @@
 8154	0	O.J.	4.40	EUR
 8154	0	O.J.	15.19	LTL
 8155	1007030	UAB „ASSET MANAGEMENT SOLUTIONS“	21420.03	LTL
-8155	1007030	UAB „ASSET MANAGEMENT SOLUTIONS“	596.09	EUR
+8155	1007030	UAB „ASSET MANAGEMENT SOLUTIONS“	635.01	EUR
 8156	1007031	Uždaroji akcinė bendrovė "DASITA"	877.28	EUR
 8156	1007031	Uždaroji akcinė bendrovė "DASITA"	10304.46	LTL
 8157	1007032	Uždaroji akcinė bendrovė "Resna"	212.12	EUR
@@ -6189,6 +6192,7 @@
 12912	1009484	Uždaroji akcinė bendrovė "Puikios drapanos"	3706.48	LTL
 12913	1009485	Uždaroji akcinė bendrovė "DIAGNOSTIKOS POLIKLINIKA"	43848.68	LTL
 12913	1009485	Uždaroji akcinė bendrovė "DIAGNOSTIKOS POLIKLINIKA"	1500.00	EUR
+12914	1009486	Uždaroji akcine bendrove "Femina bona"	50.19	EUR
 12914	1009486	Uždaroji akcine bendrove "Femina bona"	358.00	LTL
 12959	1009531	Uždaroji akcinė bendrovė "Petrolana". Išieškojimas .	751.85	EUR
 12968	1009540	V. Juškos įmonė "PLASTVIS"	5327.00	LTL

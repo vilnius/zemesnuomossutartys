@@ -2837,7 +2837,7 @@
 5353	0	M.S.	487.47	LTL
 5355	0	T.F.	18.02	EUR
 5355	0	T.F.	313.13	LTL
-5357	0	A.J.	30.38	EUR
+5357	0	A.J.	60.01	EUR
 5357	0	A.J.	409.42	LTL
 5358	0	T.M.	102.35	LTL
 5367	0	R.Š.	298.36	LTL
@@ -3329,7 +3329,7 @@
 7361	1006236	UAB "LIVILA"	400.74	EUR
 7361	1006236	UAB "LIVILA"	5582.39	LTL
 7362	1006237	Uždaroji akcinė bendrovė"ALMIGA". Išieškojimas.	134949.55	LTL
-7362	1006237	Uždaroji akcinė bendrovė"ALMIGA". Išieškojimas.	27623.76	EUR
+7362	1006237	Uždaroji akcinė bendrovė"ALMIGA". Išieškojimas.	27879.42	EUR
 7363	1006238	UAB "AUTOLĖVA". Išieškojimas.	157.95	EUR
 7363	1006238	UAB "AUTOLĖVA". Išieškojimas.	3896.25	LTL
 7364	1006239	Vilniaus miesto žemės ūkio bendrovė "PANERIO VAIRAS"	2191.64	EUR
@@ -5891,13 +5891,14 @@
 10368	0	V.B.	34.08	EUR
 10369	0	A.E.	5.00	EUR
 10369	0	A.E.	14.88	LTL
+10370	0	G.F.	4.00	EUR
 10370	0	G.F.	272.84	LTL
 10373	0	J.S.	222.02	LTL
 10374	1008267	Uždaroji akcinė bendrovė "STAPMA"	674.01	LTL
 10377	1008270	Uždaroji akcinė bendrovė "LAKAJA"	17311.06	LTL
 10378	1008271	UAB „Ukmerges str.126 office centre“	4510.89	EUR
 10378	1008271	UAB „Ukmerges str.126 office centre“	62300.76	LTL
-10379	1008272	UAB „RESPEKTAS“. Išieškojimas.	16281.67	LTL
+10379	1008272	UAB „RESPEKTAS“. Išieškoj imas. Bankrotas 2014-04-18. Likvidavimas 2015-04-03	16281.67	LTL
 10380	1008273	424-oji garažų statybos ir eksploatavimo bendrija	291.68	EUR
 10380	1008273	424-oji garažų statybos ir eksploatavimo bendrija	4028.40	LTL
 10381	1008274	Uždaroji akcinė bendrovė "Kauno energetikos remontas"	236.05	EUR
@@ -7056,6 +7057,7 @@
 17089	0	D.M.	28.80	LTL
 17108	0	J.P.	18.90	LTL
 17108	0	J.P.	5.47	EUR
+17170	0	A.P.	16.00	EUR
 17172	0	V.T.	21.70	LTL
 17173	0	E.K.	6.28	EUR
 17173	0	E.K.	43.40	LTL

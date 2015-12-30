@@ -814,6 +814,7 @@
 1734	0	H.K.	338.88	LTL
 1741	0	F.Č.	57.96	EUR
 1741	0	F.Č.	2135.04	LTL
+1742	0	I.B.	145.56	EUR
 1742	0	I.B.	983.67	LTL
 1743	0	S.A.	777.57	LTL
 1752	0	E.Ž.	1300.00	LTL
@@ -1227,7 +1228,7 @@
 2377	1002377	UAB "IMORTA"	626.00	EUR
 2377	1002377	UAB "IMORTA"	10041.00	LTL
 2378	1002378	Uždaroji akcinė bendrovė "TANAGRA"	11227.75	LTL
-2378	1002378	Uždaroji akcinė bendrovė "TANAGRA"	66.69	EUR
+2378	1002378	Uždaroji akcinė bendrovė "TANAGRA"	895.75	EUR
 2379	1002379	Uždaroji akcinė bendrovė "PENKI KONTINENTAI"	60534.16	LTL
 2380	1002380	Uždaroji akcinė bendrovė "TRINAPOLIS"	43544.58	LTL
 2381	1002381	UŽDAROJI AKCINĖ BENDROVĖ "Žirmūnų būstas"	12470.42	LTL
@@ -1394,6 +1395,7 @@
 2672	1002672	Uždaroji akcinė bendrovė "DAIVERA"	17682.13	LTL
 2674	0	D.Č.	32.88	EUR
 2674	0	D.Č.	567.70	LTL
+2675	0	R.K.	60.80	EUR
 2675	0	R.K.	1056.49	LTL
 2676	0	E.M.	118.26	LTL
 2678	1002678	Sodininkų bendrija "ŽALIASODIS"	1415.97	LTL
@@ -1646,7 +1648,7 @@
 3037	1003037	Uždaroji akcinė bendrovė "B.G.M."	14.46	EUR
 3039	1003039	Uždaroji akcinė bendrovė "BURDA MODEN SALONAS"	284.83	EUR
 3039	1003039	Uždaroji akcinė bendrovė "BURDA MODEN SALONAS"	12899.83	LTL
-3040	1003040	UAB "EMBEX" (buv. "DRAUGYSTĖS" viešbutis)	2260.85	EUR
+3040	1003040	UAB "EMBEX" (buv. "DRAUGYSTĖS" viešbutis)	7260.85	EUR
 3040	1003040	UAB "EMBEX" (buv. "DRAUGYSTĖS" viešbutis)	132001.24	LTL
 3041	1003041	Uždaroji akcinė bendrovė "Kauno Grūda", buv. UAB "Grūda"	653.52	LTL
 3041	1003041	Uždaroji akcinė bendrovė "Kauno Grūda", buv. UAB "Grūda"	47.32	EUR
@@ -2389,6 +2391,7 @@
 4406	1004406	Uždaroji akcinė bendrovė "KARMINAS"	820.32	LTL
 4406	1004406	Uždaroji akcinė bendrovė "KARMINAS"	59.12	EUR
 4407	1004407	UAB "GUTRONIKAS"	1617.64	LTL
+4407	1004407	UAB "GUTRONIKAS"	117.13	EUR
 4410	1004410	VšĮ "Fizikos instituto mokslo ir technologijų parkas"	273.62	EUR
 4410	1004410	VšĮ "Fizikos instituto mokslo ir technologijų parkas"	2892.60	LTL
 4411	1004411	35 - oji laikinų metalinių garažų statybos ir ekploatavimo bendrija	8748.00	LTL
@@ -2633,6 +2636,7 @@
 4923	0	M.G.	68.30	EUR
 4923	0	M.G.	1179.10	LTL
 4927	0	A.G.	246.86	LTL
+4937	0	M.K.	3.00	EUR
 4937	0	M.K.	241.73	LTL
 4938	0	K.V.	3.53	LTL
 4942	0	A.A.	58.06	LTL
@@ -4084,6 +4088,9 @@
 7955	1006830	Akcinė bendrovė "TOLVIS"	1540.00	EUR
 7955	1006830	Akcinė bendrovė "TOLVIS"	21264.00	LTL
 7956	1006831	Uždaroji akcinė bendrovė "ELMETA"	30667.26	LTL
+7957	0	A.Š.	21.00	EUR
+7958	0	I.O.J.	69.20	EUR
+7959	0	N.P.	84.46	EUR
 7964	1006839	Lietuvos bankas	5977.44	EUR
 7964	1006839	Lietuvos bankas	89146.48	LTL
 7965	1006840	484-oji garažų statybos ir eksploatavimo bendrija	94.25	EUR
@@ -4417,7 +4424,7 @@
 8220	0	I.G.	187.20	LTL
 8221	0	R.G.	10.84	EUR
 8221	0	R.G.	187.20	LTL
-8222	1007097	Lietuvos, Lenkijos ir Rusijos uždaroji  akcinė bendrovė ELHAMERS". Išieškojimas .	429.94	EUR
+8222	1007097	Lietuvos, Lenkijos ir Rusijos uždaroji  akcinė bendrovė ELHAMERS". Išieškojimas .	573.25	EUR
 8224	1007099	391-oji garažų statybos ir eksploatavimo bendrija	2014.84	LTL
 8224	1007099	391-oji garažų statybos ir eksploatavimo bendrija	145.88	EUR
 8226	1007101	Uždaroji akcinė bendrovė „TUGVA“	2316.00	EUR
@@ -6141,7 +6148,7 @@
 11405	0	J.S.	1761.58	LTL
 11507	0	G.S.	1398.21	LTL
 11618	0	R.L.	123.34	EUR
-11710	0	E.G.	13.96	EUR
+11710	0	E.G.	17.45	EUR
 11803	0	V.M.	375.28	LTL
 11804	0	V.Š.	21.00	EUR
 11804	0	V.Š.	195.16	LTL
@@ -6266,7 +6273,7 @@
 13102	1009674	Uždaroji akcinė bendrovė "Dorvina"	15450.58	LTL
 13103	1009675	Valstybės įmonė "REGITRA"	38344.36	LTL
 13103	1009675	Valstybės įmonė "REGITRA"	2776.32	EUR
-13109	1009681	39-laikinų metalinių garažų statybos ir eksploatavimo bendrija "KAROLINIŠKĖS"	261.56	EUR
+13109	1009681	39-laikinų metalinių garažų statybos ir eksploatavimo bendrija "KAROLINIŠKĖS"	461.56	EUR
 13113	1009685	532-oji garažų statybos ir eksploatavimo bendrija	139.05	EUR
 13113	1009685	532-oji garažų statybos ir eksploatavimo bendrija	1920.52	LTL
 13128	1009700	UAB AUKŠTŲJŲ PANERIŲ ELEKTROS PASKIRSTYMO CENTRAS	143.00	EUR
@@ -7163,7 +7170,7 @@
 17310	0	V.B.	238.37	LTL
 17311	0	S.b.".	6140.00	LTL
 17312	0	S.b.".	6269.46	LTL
-17313	0	U.A.	7935.99	LTL
+17313	0	U.A.B.2.	7935.99	LTL
 17314	0	U.a.b.".	812.52	LTL
 17315	0	M.v.	2138.60	LTL
 17315	0	M.v.	243.40	EUR
@@ -7658,7 +7665,7 @@
 17794	0	U.".	1004.00	EUR
 17795	0	U.".	171.83	EUR
 17796	0	R.O.V.	32.74	EUR
-17797	0	U.".I.	17189.29	EUR
+17797	0	U.".I.	23024.64	EUR
 17798	0	N.R.	9.56	EUR
 17802	0	L.N.	36.53	EUR
 17803	0	L.G.O.	98.31	EUR

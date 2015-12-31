@@ -1556,6 +1556,7 @@
 2880	1002880	UAB "OGRINDA"	6913.00	LTL
 2882	0	Č.G.I.	163.92	LTL
 2882	0	Č.G.I.	23.88	EUR
+2884	0	S.I.	12.00	EUR
 2884	0	S.I.	204.21	LTL
 2885	0	A.I.	81.00	LTL
 2885	0	A.I.	48.25	EUR
@@ -1780,6 +1781,7 @@
 3259	1003259	614-oji garažų statybos ir eksploatavimo bendrija	1420.80	LTL
 3259	1003259	614-oji garažų statybos ir eksploatavimo bendrija	355.20	EUR
 3260	1003260	R. Petkūno firma "RIPETA"	1008.51	LTL
+3261	1003261	Garažų eksploatavimo bendrija "Vairas"	25.00	EUR
 3261	1003261	Garažų eksploatavimo bendrija "Vairas"	114.00	LTL
 3262	0	V.A.	135.75	EUR
 3262	0	V.A.	2346.38	LTL
@@ -2306,6 +2308,7 @@
 4293	0	A.D.	8.21	LTL
 4299	0	E.F.	17.12	LTL
 4301	0	B.Y.	76.05	LTL
+4301	0	B.Y.	27.90	EUR
 4304	0	L.V.	11.37	LTL
 4305	0	J.J.	9.62	LTL
 4306	0	J.S.	8.06	LTL
@@ -2688,6 +2691,7 @@
 5044	1005044	Uždaroji akcinė bendrovė "ŽMOGAUS STUDIJŲ CENTRAS"	1519.95	EUR
 5044	1005044	Uždaroji akcinė bendrovė "ŽMOGAUS STUDIJŲ CENTRAS"	18796.00	LTL
 5045	1005045	Uždaroji akcinė bendrovė "SKONIS IR KVAPAS"	10123.47	LTL
+5045	1005045	Uždaroji akcinė bendrovė "SKONIS IR KVAPAS"	998.31	EUR
 5054	0	J.S.	5.97	LTL
 5059	0	R.N.	6.50	LTL
 5065	0	T.V.D.	61.41	LTL
@@ -2733,6 +2737,7 @@
 5123	0	R.V.K.	125.16	LTL
 5125	0	V.M.	171.10	LTL
 5125	0	V.M.	9.77	EUR
+5126	0	I.S.	5.81	EUR
 5126	0	I.S.	100.35	LTL
 5127	0	K.K.	5.81	EUR
 5127	0	K.K.	100.39	LTL
@@ -2956,6 +2961,7 @@
 5618	1005618	AS ,,INFOTARK". Išieškojimas.	9486.55	LTL
 5619	0	L.K.	175.25	LTL
 5621	1005621	536-oji garažų statybos ir eksploatavimo bendrija	1290.33	LTL
+5622	1005622	448-oji garažų statybos ir eksploatavimo bendrija	343.28	EUR
 5622	1005622	448-oji garažų statybos ir eksploatavimo bendrija	3555.87	LTL
 5623	1005623	547-oji garažų statybos ir eksploatavimo bendrija	88.50	EUR
 5623	1005623	547-oji garažų statybos ir eksploatavimo bendrija	930.00	LTL
@@ -3014,6 +3020,7 @@
 5713	1005713	425-oji garažų statybos ir eksploatavimo bendrija	1386.78	LTL
 5714	1005714	390-oji garažų statybos ir eksploatavimo bendrija	109.30	EUR
 5714	1005714	390-oji garažų statybos ir eksploatavimo bendrija	1370.57	LTL
+5720	1005720	514-oji garažų statybos ir eksploatavimo bendrija	251.00	EUR
 5720	1005720	514-oji garažų statybos ir eksploatavimo bendrija	4414.69	LTL
 5725	0	G.V.	5.49	LTL
 5730	1005730	562-oji garažų statybos ir eksploatavimo bendrija	72.05	EUR
@@ -3057,7 +3064,7 @@
 5823	0	V.S.	3.13	EUR
 5824	0	D.V.	3.13	EUR
 5828	0	E.Š.	400.00	LTL
-5829	0	L.S.	126.96	EUR
+5829	0	L.S.	249.99	EUR
 5829	0	L.S.	2185.16	LTL
 5830	0	E.S.	3.13	EUR
 5834	0	A.J.	5.31	LTL
@@ -3314,7 +3321,7 @@
 7342	1006217	Akcinė bendrovė "VILNIAUS SIGMA"	297562.68	LTL
 7343	1006218	UŽDAROJI AKCINĖ BENDROVĖ "SULTYS"	36365.00	LTL
 7343	1006218	UŽDAROJI AKCINĖ BENDROVĖ "SULTYS"	2633.01	EUR
-7344	0	J.N.I.	2852.81	EUR
+7344	0	J.N.I.	2887.21	EUR
 7345	1006220	UAB "ALPILRA"	206.11	EUR
 7345	1006220	UAB "ALPILRA"	2846.64	LTL
 7346	1006221	Uždaroji akcinė bendrovė "KULGINTA"	4896.44	LTL
@@ -3941,6 +3948,7 @@
 7838	1006713	UAB "PUM plius"	5354.71	LTL
 7840	0	O.M.	509.77	LTL
 7841	0	A.S.	511.54	LTL
+7842	0	O.G.	24.42	EUR
 7842	0	O.G.	1133.36	LTL
 7843	1006718	Vilniaus kooperacijos kolegija, VšĮ	494.32	EUR
 7843	1006718	Vilniaus kooperacijos kolegija, VšĮ	6192.24	LTL
@@ -4325,6 +4333,7 @@
 8136	1007011	Timofejevienės individuali įmonė	14258.28	LTL
 8136	1007011	Timofejevienės individuali įmonė	1263.73	EUR
 8137	1007012	UAB "Vėjo ratai". Išieškojimas.	6057.06	LTL
+8138	1007013	341-oji garažų statybos ir eksploatavimo bendrija	700.00	EUR
 8138	1007013	341-oji garažų statybos ir eksploatavimo bendrija	4806.80	LTL
 8140	1007015	Akcinė bendrovė "GELEŽINKELIO APSAUGOS ŽELDINIAI"	306.24	EUR
 8140	1007015	Akcinė bendrovė "GELEŽINKELIO APSAUGOS ŽELDINIAI"	4229.52	LTL
@@ -6147,7 +6156,7 @@
 10563	1008456	UAB "Kokybės ženklas"	7957.31	LTL
 11405	0	J.S.	1761.58	LTL
 11507	0	G.S.	1398.21	LTL
-11618	0	R.L.	123.34	EUR
+11618	0	R.L.	164.42	EUR
 11710	0	E.G.	17.45	EUR
 11803	0	V.M.	375.28	LTL
 11804	0	V.Š.	21.00	EUR
@@ -6268,6 +6277,7 @@
 13097	1009669	414-oji garažų statybos ir eksploatavimo bendrija	58.15	LTL
 13098	1009670	312-oji garažų statybos ir eksploatavimo bendrija	251.10	EUR
 13098	1009670	312-oji garažų statybos ir eksploatavimo bendrija	3467.96	LTL
+13099	1009671	Uždaroji akcinė bendrovė "ERNOMA"	767.51	EUR
 13099	1009671	Uždaroji akcinė bendrovė "ERNOMA"	11370.00	LTL
 13102	1009674	Uždaroji akcinė bendrovė "Dorvina"	2722.33	EUR
 13102	1009674	Uždaroji akcinė bendrovė "Dorvina"	15450.58	LTL
@@ -7228,6 +7238,7 @@
 17373	0	V.V.	71.20	LTL
 17374	1012177	UŽDAROJI AKCINĖ BENDROVĖ "LATLITA" (iš BĮ98-163 Lietuvos ir Latvijos uždaroji akcinė bendrovė "LATLITA")	39.64	EUR
 17377	1012180	Uždaroji akcinė bendrovė "GREITISTA"	386.44	LTL
+17377	1012180	Uždaroji akcinė bendrovė "GREITISTA"	110.88	EUR
 17382	0	Č.V.	108.51	EUR
 17383	0	Ž.R.	52.00	LTL
 17383	0	Ž.R.	11.12	EUR

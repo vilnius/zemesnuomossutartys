@@ -174,7 +174,7 @@
 380	0	D.J.	171.80	LTL
 382	0	V.L.	365.26	LTL
 383	0	V.N.	326.24	LTL
-384	0	E.A.K.	75.18	EUR
+384	0	E.A.K.	81.18	EUR
 384	0	E.A.K.	169.50	LTL
 385	0	O.B.	140.00	LTL
 386	0	B.D.	510.90	LTL
@@ -295,6 +295,7 @@
 835	0	K.B.	152.21	LTL
 837	0	I.B.	249.35	LTL
 837	0	I.B.	18.52	EUR
+844	0	F.M.	20.16	EUR
 844	0	F.M.	348.73	LTL
 849	0	S.Z.	136.21	LTL
 850	0	R.P.	124.84	LTL
@@ -1268,7 +1269,7 @@
 2436	0	N.B.	523.00	LTL
 2442	0	J.Č.	.73	LTL
 2443	0	J.P.	492.53	LTL
-2444	1002444	637-oji garažų statybos ir eksploatavimo bendrija	89.55	EUR
+2444	1002444	637-oji garažų statybos ir eksploatavimo bendrija	99.55	EUR
 2444	1002444	637-oji garažų statybos ir eksploatavimo bendrija	2112.00	LTL
 2446	0	V.K.	127.59	LTL
 2447	0	L.M.	1921.69	LTL
@@ -4274,6 +4275,7 @@
 8083	0	T.J.	126.00	EUR
 8083	0	T.J.	2586.67	LTL
 8084	0	K.B.	426.53	LTL
+8085	0	A.V.B.	165.70	EUR
 8085	0	A.V.B.	870.62	LTL
 8086	1006961	UAB ''DANSKE LIZINGAS''	3102.00	LTL
 8088	1006963	UAB "Nalšia". Ieškinys. Bankrotas 2012-12-12. Likvidavimas 2013-08-21	730.64	LTL
@@ -5214,7 +5216,7 @@
 9811	0	R.P.	2026.30	LTL
 9812	0	I.P.	117.13	EUR
 9812	0	I.P.	2023.94	LTL
-9813	1007706	Uždaroji akcinė bendrovė "Vilnista" . Išieškojimas.	250.97	EUR
+9813	1007706	Uždaroji akcinė bendrovė "Vilnista" . Išieškojimas.	916.22	EUR
 9813	1007706	Uždaroji akcinė bendrovė "Vilnista" . Išieškojimas.	50336.73	LTL
 9815	1007708	Uždaroji akcinė bendrovė "ARGENTA"	5248.48	EUR
 9815	1007708	Uždaroji akcinė bendrovė "ARGENTA"	72487.84	LTL
@@ -5452,6 +5454,7 @@
 10002	1007895	Uždaroji akcinė bendrovė "NEONITA"	2492.13	LTL
 10003	1007896	Lietuvos ir Šveicarijos uždaroji akcinė bendrovė "STAMECHA"	404.91	EUR
 10003	1007896	Lietuvos ir Šveicarijos uždaroji akcinė bendrovė "STAMECHA"	16505.61	LTL
+10004	1007897	Uždaroji akcinė bendrovė "SAUGOS GARANTAS"	23.00	EUR
 10004	1007897	Uždaroji akcinė bendrovė "SAUGOS GARANTAS"	320.81	LTL
 10005	1007898	Uždaroji akcinė bendrovė "LEMA"	197.55	EUR
 10005	1007898	Uždaroji akcinė bendrovė "LEMA"	3561.38	LTL
@@ -6064,6 +6067,7 @@
 10493	0	R.M.	168.60	EUR
 10493	0	R.M.	2974.91	LTL
 10495	0	Z.V.	4877.12	LTL
+10496	0	J.N.	306.13	EUR
 10497	0	G.K.N.	2955.01	EUR
 10498	0	G.D.	789.51	LTL
 10499	0	T.D.	789.51	LTL
@@ -6238,6 +6242,7 @@
 12914	1009486	Uždaroji akcine bendrove "Femina bona"	50.19	EUR
 12914	1009486	Uždaroji akcine bendrove "Femina bona"	358.00	LTL
 12959	1009531	Uždaroji akcinė bendrovė "Petrolana". Išieškojimas .	751.85	EUR
+12968	1009540	V. Juškos įmonė "PLASTVIS"	351.60	EUR
 12968	1009540	V. Juškos įmonė "PLASTVIS"	5327.00	LTL
 12983	1009555	UAB "PAVASARIS"	12271.05	EUR
 12983	1009555	UAB "PAVASARIS"	169147.40	LTL
@@ -6968,7 +6973,7 @@
 15056	0	J.M.	143.54	EUR
 15056	0	J.M.	65.93	LTL
 15057	0	A.M.	63.71	LTL
-15057	0	A.M.	120.95	EUR
+15057	0	A.M.	144.16	EUR
 15059	0	E.M.	120.95	EUR
 15059	0	E.M.	63.71	LTL
 15098	0	A.S.	15.30	EUR
@@ -7680,7 +7685,7 @@
 17798	0	N.R.	9.56	EUR
 17802	0	L.N.	36.53	EUR
 17803	0	L.G.O.	98.31	EUR
-17804	0	I.".B.	406.85	EUR
+17804	0	I.".B.	976.85	EUR
 17806	0	U.".	23.66	EUR
 17807	0	U.".	310.85	EUR
 17808	0	P.U.	26.67	EUR

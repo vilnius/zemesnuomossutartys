@@ -435,6 +435,7 @@
 1141	0	D.A.	795.48	LTL
 1144	0	D.Ž.	21.51	LTL
 1150	0	R.K.	75.47	LTL
+1152	0	A.M.	33.19	EUR
 1152	0	A.M.	225.95	LTL
 1154	0	S.B.	56.21	LTL
 1157	0	E.B.	245.96	LTL
@@ -681,7 +682,7 @@
 1526	1001526	Sodininkų bendrija "UŽUGIRIS"	244.80	LTL
 1528	1001528	Sodininkų bendrija "ŽIDINYS"	208.45	LTL
 1543	1001543	UAB "VILZEVUS"	5659.11	LTL
-1543	1001543	UAB "VILZEVUS"	1359.23	EUR
+1543	1001543	UAB "VILZEVUS"	1413.07	EUR
 1544	1001544	UAB "DIG BALTIEJI RŪMAI"	59434.36	LTL
 1545	1001545	Uždaroji akcinė bendrovė "MILITEKSAS"	341.30	EUR
 1545	1001545	Uždaroji akcinė bendrovė "MILITEKSAS"	2515.81	LTL
@@ -2033,8 +2034,8 @@
 3677	0	I.M.	1231.80	LTL
 3679	1003679	659-oji garažų statybos ir eksploatavimo bendrija	109.72	LTL
 3679	1003679	659-oji garažų statybos ir eksploatavimo bendrija	7.95	EUR
-3680	1003680	Uždaroji akcinė bendrovė "MABILTA". Išieškojimas.	6900.00	EUR
-3680	1003680	Uždaroji akcinė bendrovė "MABILTA". Išieškojimas.	124068.81	LTL
+3680	1003680	Uždaroji akcinė bendrovė "MABILTA".	9900.00	EUR
+3680	1003680	Uždaroji akcinė bendrovė "MABILTA".	124068.81	LTL
 3685	0	I.T.	453.88	LTL
 3685	0	I.T.	26.35	EUR
 3687	1003687	UAB „NAUJASIS UŽUPIS“	8926.95	EUR
@@ -2087,7 +2088,7 @@
 3764	1003764	Statybos ir remonto uždaroji akcinė bendrovė "FRIZAS". Išieškojimas.	26883.05	LTL
 3765	1003765	Uždaroji akcinė bendrovė"VIJOKLIŲ KAMPELIS". Išieškojimas.	4528.45	LTL
 3767	1003767	525-oji garažų statybos ir eksploatavimo bendrija	1161.74	LTL
-3767	1003767	525-oji garažų statybos ir eksploatavimo bendrija	84.24	EUR
+3767	1003767	525-oji garažų statybos ir eksploatavimo bendrija	168.48	EUR
 3768	0	R.A.	6.46	EUR
 3769	0	N.K.	65.69	EUR
 3769	0	N.K.	1144.26	LTL
@@ -3789,7 +3790,7 @@
 7690	0	J.P.	2816.62	LTL
 7692	1006567	Uždaroji akcinė bendrovė"DAIGAI"	3998.74	LTL
 7692	1006567	Uždaroji akcinė bendrovė"DAIGAI"	1158.12	EUR
-7693	1006568	Uždaroji akcinė bendrovė sveikatos centras "SANVITA". Išieškojimas.	14877.45	LTL
+7693	1006568	Uždaroji akcinė bendrovė sveikatos centras "SANVITA".	14877.45	LTL
 7694	0	V.J.	178.39	EUR
 7694	0	V.J.	1858.75	LTL
 7695	1006570	Uždaroji akcinė bendrovė "VILBRA"	18321.92	EUR
@@ -5230,6 +5231,7 @@
 9794	0	V.K.	305.97	EUR
 9794	0	V.K.	5282.30	LTL
 9795	1007688	UAB "PRANCIŠKONŲ RŪMAI". Išieškojimas. Bankrotas 2013-11-06. Likvidavimas 2014-04-14	139352.61	LTL
+9796	0	M.M.	281.50	EUR
 9796	0	M.M.	4862.92	LTL
 9800	0	L.K.	1402.40	LTL
 9802	0	K.Č.	35.96	LTL
@@ -6526,6 +6528,7 @@
 13402	0	I.Š.	137.79	LTL
 13403	0	D.A.I.	706.08	EUR
 13403	0	D.A.I.	179.54	LTL
+13404	0	G.A.I.	403.84	EUR
 13404	0	G.A.I.	1099.86	LTL
 13406	1009921	Uždaroji akcinė bendrovė MOKSLINĖ - GAMYBINĖ FIRMA "ŠVIESOS KONVERSIJA"	775.74	EUR
 13406	1009921	Uždaroji akcinė bendrovė MOKSLINĖ - GAMYBINĖ FIRMA "ŠVIESOS KONVERSIJA"	14159.04	LTL
@@ -7925,3 +7928,4 @@
 18098	0	A.L.	21.00	EUR
 18099	0	R.J.	3.13	EUR
 18100	0	U.".e.	60.00	EUR
+18101	0	J.V.	100.16	EUR

@@ -1074,6 +1074,7 @@
 2114	1002114	Sodininkų bendrija "ENERGETIKAS"	43.32	EUR
 2114	1002114	Sodininkų bendrija "ENERGETIKAS"	143.63	LTL
 2115	1002115	Sodininkų bendrija "TYRINĖTOJAS"	713.04	LTL
+2115	1002115	Sodininkų bendrija "TYRINĖTOJAS"	45.73	EUR
 2116	1002116	Sodininkų bendrija "VIRŠUPIS"	28.04	LTL
 2118	1002118	UŽDAROJI AKCINĖ BENDROVĖ "NAUJOJI PILAITĖ"	532.45	LTL
 2118	1002118	UŽDAROJI AKCINĖ BENDROVĖ "NAUJOJI PILAITĖ"	30.84	EUR
@@ -2119,6 +2120,7 @@
 3814	1003814	Uždaroji akcinė bendrovė "ELYMUS"	445.20	EUR
 3814	1003814	Uždaroji akcinė bendrovė "ELYMUS"	6127.42	LTL
 3819	0	J.K.	421.29	LTL
+3820	0	R.B.	424.34	EUR
 3822	0	I.Z.	473.78	LTL
 3828	0	V.U.	320.86	LTL
 3830	0	K.U.	345.41	LTL
@@ -3791,7 +3793,7 @@
 7683	1006558	428-oji garažų statybos ir eksploatavimo bendrija	233.92	EUR
 7683	1006558	428-oji garažų statybos ir eksploatavimo bendrija	3232.76	LTL
 7685	1006560	Uždaroji akcinė bendrovė "Salovė". Išieškojimas.  Bankrotas 2013-04-29. Likvidavimas 2014-06-26	1577.77	EUR
-7687	0	O.V.D.	726.66	EUR
+7687	0	O.V.D.	753.53	EUR
 7687	0	O.V.D.	1719.45	LTL
 7689	1006564	Uždaroji akcinė bendrovė "ŠIAULIŲ SKALBYKLA"	486.42	EUR
 7689	1006564	Uždaroji akcinė bendrovė "ŠIAULIŲ SKALBYKLA"	6718.08	LTL
@@ -3880,6 +3882,7 @@
 7753	1006628	Statybos ir remonto uždaroji akcinė bendrovė"ALSA". Išieškojimas.	63000.72	LTL
 7754	1006629	440-oji garažų statybos ir ekploatavimo bendrija	2140.68	LTL
 7754	1006629	440-oji garažų statybos ir ekploatavimo bendrija	102.61	EUR
+7755	1006630	Uždaroji akcinė bendrovė "RENESTA". Išieškojimas.	630.44	EUR
 7755	1006630	Uždaroji akcinė bendrovė "RENESTA". Išieškojimas.	2909.97	LTL
 7756	1006631	AB "BALTIC PROPERTY TRUST"	5774.56	LTL
 7760	1006635	UAB "RTSE"	5012.24	LTL
@@ -5337,7 +5340,7 @@
 9879	1007772	Uždaroji akcinė bendrovė SANATORIJA " PUŠYNO KELIAS". Išieškojimas .	164582.51	LTL
 9880	1007773	Akcinė bendrovė "ENIFAS". Išieškojimas .	1976.67	EUR
 9880	1007773	Akcinė bendrovė "ENIFAS". Išieškojimas .	18308.20	LTL
-9881	1007774	Uždaroji akcinė bendrovė "KROVINIŲ EKSPEDICIJOS CENTRAS"	131.06	EUR
+9881	1007774	Uždaroji akcinė bendrovė "KROVINIŲ EKSPEDICIJOS CENTRAS"	256.20	EUR
 9881	1007774	Uždaroji akcinė bendrovė "KROVINIŲ EKSPEDICIJOS CENTRAS"	2300.16	LTL
 9882	1007775	Uždaroji akcinė bendrovė "PALMUSTA"	845.37	EUR
 9882	1007775	Uždaroji akcinė bendrovė "PALMUSTA"	11675.66	LTL
@@ -5739,6 +5742,7 @@
 10204	0	E.A.	178.52	LTL
 10207	1008100	UAB "TENISO PASAULIS"	1173.90	EUR
 10207	1008100	UAB "TENISO PASAULIS"	13735.24	LTL
+10208	0	M.A.I.	5960.46	EUR
 10209	1008102	608-oji garažų statybos ir eksploatavimo bendrija	186.50	EUR
 10209	1008102	608-oji garažų statybos ir eksploatavimo bendrija	1931.46	LTL
 10211	1008104	533-oji garažų statybos ir eksploatavimo bendrija	207.51	EUR
@@ -6005,6 +6009,7 @@
 10397	1008290	Uždaroji akcinė bendrovė "VALSTINA"	1592.29	LTL
 10398	1008291	633-oji garažų statybos ir eksploatavimo bendrija	22.78	EUR
 10398	1008291	633-oji garažų statybos ir eksploatavimo bendrija	314.60	LTL
+10399	1008292	609-oji garažų statybos ir ekploatavimo bendrija "AUDRA"	32.19	EUR
 10399	1008292	609-oji garažų statybos ir ekploatavimo bendrija "AUDRA"	434.99	LTL
 10402	1008295	Uždaroji akcinė bendrovė "VIKADA" (iš NP91-3 Lietuvos kurčiųjų draugijos Vilniaus įmonė)	172.00	EUR
 10402	1008295	Uždaroji akcinė bendrovė "VIKADA" (iš NP91-3 Lietuvos kurčiųjų draugijos Vilniaus įmonė)	10619.00	LTL

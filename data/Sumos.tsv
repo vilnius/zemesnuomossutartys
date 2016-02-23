@@ -1027,6 +1027,7 @@
 2018	0	Č.P.	22.86	EUR
 2018	0	Č.P.	154.75	LTL
 2021	0	D.A.	128.52	LTL
+2021	0	D.A.	7.39	EUR
 2026	0	F.R.	300.24	LTL
 2027	0	R.P.	53.04	EUR
 2027	0	R.P.	676.97	LTL
@@ -1520,8 +1521,8 @@
 2818	1002818	Uždaroji akcinė bendrovė "STAKLIJA"	12259.02	LTL
 2819	1002819	Uždaroji akcinė bendrovė "GEOLOGINIAI TYRIMAI"	267.00	EUR
 2819	1002819	Uždaroji akcinė bendrovė "GEOLOGINIAI TYRIMAI"	4612.50	LTL
-2820	1002820	Uždaroji akcinė bendrovė"AUTOMEGA". Išieškojimas.	298.92	EUR
-2820	1002820	Uždaroji akcinė bendrovė"AUTOMEGA". Išieškojimas.	9150.35	LTL
+2820	1002820	Uždaroji akcinė bendrovė"AUTOMEGA".	298.92	EUR
+2820	1002820	Uždaroji akcinė bendrovė"AUTOMEGA".	9150.35	LTL
 2821	0	J.V.	2707.17	LTL
 2823	1002823	Uždaroji akcinė bendrovė "PERDANGA"	5509.91	EUR
 2823	1002823	Uždaroji akcinė bendrovė "PERDANGA"	76098.44	LTL
@@ -1543,7 +1544,7 @@
 2839	1002839	UAB "VAATC"	19364.10	LTL
 2840	0	S.E.I.	198.02	LTL
 2841	1002841	UAB "Nekilnojamojo turto valdymas"	82006.35	LTL
-2842	1002842	Uždaroji akcinė bendrovė "KLUONAS"	12757.34	LTL
+2842	1002842	Uždaroji akcinė bendrovė "KLUONAS", Bankrotas .Likvidavimas .Išregistruota.	12757.34	LTL
 2843	0	J.T.	94.42	EUR
 2843	0	J.T.	1638.65	LTL
 2845	0	M.N.	487.16	EUR
@@ -1994,7 +1995,7 @@
 3603	1003603	HELIER INTERNATIONAL CORP.	334.36	LTL
 3606	1003606	Uždaroji akcinė bendrovė Medicinos bankas	11527.19	LTL
 3606	1003606	Uždaroji akcinė bendrovė Medicinos bankas	2036.56	EUR
-3607	1003607	UAB "BENU Vaistinė Lietuva". Reorganizacija	4602.13	EUR
+3607	1003607	UAB "BENU Vaistinė Lietuva". Reorganizacija	6107.62	EUR
 3607	1003607	UAB "BENU Vaistinė Lietuva". Reorganizacija	1529.88	LTL
 3608	0	Č.P.	50.00	LTL
 3612	0	S.P.	472.30	LTL
@@ -7805,6 +7806,7 @@
 17895	0	L.C.	19.98	EUR
 17896	0	A.L.	40.02	EUR
 17900	0	G.R.	27.84	EUR
+17904	0	A.S.	3.84	EUR
 17905	0	R.Č.	.93	EUR
 17906	0	V.J.	15.27	EUR
 17914	0	N.M.	25.19	EUR

@@ -568,7 +568,7 @@
 1356	1001356	500-oji garažų statybos ir eksploatavimo bendrovė	4423.20	LTL
 1356	1001356	500-oji garažų statybos ir eksploatavimo bendrovė	320.26	EUR
 1357	1001357	455-oji garažų statybos ir eksploatavimo bendrija	463.81	LTL
-1357	1001357	455-oji garažų statybos ir eksploatavimo bendrija	22.48	EUR
+1357	1001357	455-oji garažų statybos ir eksploatavimo bendrija	92.01	EUR
 1358	1001358	MAXIMA LT, UAB	7134.96	EUR
 1358	1001358	MAXIMA LT, UAB	262277.66	LTL
 1359	0	E.J.	180.23	EUR
@@ -1911,6 +1911,7 @@
 3473	1003473	Sodininkų bendrija "AUŠRA"	215.51	LTL
 3475	0	V.P.	20.00	EUR
 3477	0	A.A.	353.53	LTL
+3480	0	R.L.	170.41	EUR
 3480	0	R.L.	2984.38	LTL
 3481	0	R.M.	70.20	LTL
 3486	1003486	Uždaroji akcinė bendrovė "Goretė"	79.69	EUR
@@ -2436,7 +2437,8 @@
 4426	0	V.A.	9225.22	LTL
 4426	0	V.A.	569.77	EUR
 4427	0	I.F.	4.94	EUR
-4429	1004429	581 - garažų statybos ir eksploatavimo bendrija	232.71	LTL
+4429	1004429	581 - garažų statybos ir eksploatavimo bendrija	22.47	EUR
+4429	1004429	581 - garažų statybos ir eksploatavimo bendrija	310.28	LTL
 4430	0	R.Č.	8.45	LTL
 4432	1004432	Uždaroji akcinė bendrovė "ALGAUDRA"	39787.16	LTL
 4432	1004432	Uždaroji akcinė bendrovė "ALGAUDRA"	2880.80	EUR
@@ -2992,7 +2994,8 @@
 5618	1005618	AS ,,INFOTARK". Išieškojimas.	543.50	EUR
 5618	1005618	AS ,,INFOTARK". Išieškojimas.	9486.55	LTL
 5619	0	L.K.	175.25	LTL
-5621	1005621	536-oji garažų statybos ir eksploatavimo bendrija	1290.33	LTL
+5621	1005621	536-oji garažų statybos ir eksploatavimo bendrija	124.57	EUR
+5621	1005621	536-oji garažų statybos ir eksploatavimo bendrija	1720.44	LTL
 5622	1005622	448-oji garažų statybos ir eksploatavimo bendrija	343.28	EUR
 5622	1005622	448-oji garažų statybos ir eksploatavimo bendrija	3555.87	LTL
 5623	1005623	547-oji garažų statybos ir eksploatavimo bendrija	88.50	EUR
@@ -4573,6 +4576,7 @@
 8292	1007167	321-oji garažų statybos ir eksploatavimo bendrija	4811.26	LTL
 8294	1007169	374-oji garažų statybos ir eksploatavimo bendrija	129.22	EUR
 8294	1007169	374-oji garažų statybos ir eksploatavimo bendrija	1784.72	LTL
+8296	1007171	AB "MIKOTELGROUP" (buvo "MIKOTELIS")	4000.00	EUR
 8296	1007171	AB "MIKOTELGROUP" (buvo "MIKOTELIS")	252214.58	LTL
 8298	1007173	UAB "Bitė Lietuva"	2258.69	EUR
 8298	1007173	UAB "Bitė Lietuva"	9682.70	LTL
@@ -5682,8 +5686,8 @@
 10155	0	V.S.	2914.77	LTL
 10156	0	G.M.	89.94	EUR
 10156	0	G.M.	2984.25	LTL
-10157	0	A.L.	3568.52	LTL
 10157	0	A.L.	102.74	EUR
+10157	0	A.L.	3568.52	LTL
 10158	0	L.U.	468.64	EUR
 10158	0	L.U.	8096.32	LTL
 10159	1008052	Uždaroji akcinė bendrovė "ARLANGA wood"	11649.58	LTL
@@ -6569,7 +6573,7 @@
 13438	0	L.B.	1121.50	LTL
 13439	0	P.L.D.	1137.17	EUR
 13439	0	P.L.D.	4227.30	LTL
-13440	0	J.J.	11.44	EUR
+13440	0	J.J.	20.77	EUR
 13440	0	J.J.	77.93	LTL
 13441	0	M.J.	160.52	LTL
 13443	0	A.P.	24.75	EUR
@@ -7397,8 +7401,6 @@
 17464	0	U.".	26684.78	EUR
 17464	0	U.".	36841.37	LTL
 17465	0	U.F.F.	126.98	LTL
-17466	0	B.S.P.	430.11	LTL
-17466	0	B.S.P.	124.57	EUR
 17467	0	E.K.	43.73	LTL
 17468	0	G.S.į.".	177.53	EUR
 17468	0	G.S.į.".	1021.63	LTL
@@ -7589,7 +7591,7 @@
 17653	0	A.P.	5.47	EUR
 17658	0	E.V.G.	90.38	EUR
 17658	0	E.V.G.	260.00	LTL
-17661	0	R.L.	70.26	EUR
+17661	0	R.L.	140.26	EUR
 17662	0	R.U.	126.32	EUR
 17662	0	R.U.	46.73	LTL
 17668	0	A.V.	170.78	EUR
@@ -7661,8 +7663,6 @@
 17729	0	U.".n.	1433.10	EUR
 17730	0	U.".u.n.	492.42	LTL
 17730	0	U.".u.n.	46.91	EUR
-17731	0	J.G.	22.47	EUR
-17731	0	J.G.	77.57	LTL
 17732	0	U.".I.	5640.46	LTL
 17732	0	U.".I.	2458.62	EUR
 17733	0	U.".I.	192.53	LTL

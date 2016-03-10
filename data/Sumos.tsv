@@ -1030,7 +1030,7 @@
 2021	0	D.A.	128.52	LTL
 2021	0	D.A.	7.39	EUR
 2026	0	F.R.	300.24	LTL
-2027	0	R.P.	53.04	EUR
+2027	0	R.P.	65.04	EUR
 2027	0	R.P.	676.97	LTL
 2031	1002031	Uždaroji akcinė bendrovė ,,Raminora"	157.69	EUR
 2031	1002031	Uždaroji akcinė bendrovė ,,Raminora"	2218.63	LTL
@@ -2581,7 +2581,8 @@
 4800	0	J.N.	316.79	LTL
 4801	1004801	310-oji garažų statybos ir eksploatavimo bendrija"ŠILAS"	1135.06	LTL
 4801	1004801	310-oji garažų statybos ir eksploatavimo bendrija"ŠILAS"	82.14	EUR
-4804	1004804	602-oji garažų statybos ir eksploatavimo bendrija	338.02	LTL
+4804	1004804	602-oji garažų statybos ir eksploatavimo bendrija	48.99	EUR
+4804	1004804	602-oji garažų statybos ir eksploatavimo bendrija	507.03	LTL
 4814	0	P.K.	841.92	LTL
 4815	1004815	UAB "EMIRA"	1446.81	EUR
 4815	1004815	UAB "EMIRA"	34721.23	LTL
@@ -4085,7 +4086,7 @@
 7908	1006783	Uždaroji akcinė bendrovė "KERAMIKOS MENO CENTRAS"	1376.03	LTL
 7909	1006784	Uždaroji akcinė bendrovė "VILNIAUS DAILĖ"	179.61	EUR
 7909	1006784	Uždaroji akcinė bendrovė "VILNIAUS DAILĖ"	2480.56	LTL
-7910	1006785	Uždaroji akcinė bendrovė "EKSPOBALTA"	577.62	EUR
+7910	1006785	Uždaroji akcinė bendrovė "EKSPOBALTA"	834.07	EUR
 7910	1006785	Uždaroji akcinė bendrovė "EKSPOBALTA"	3016.17	LTL
 7911	1006786	UAB "BLANKŲ LEIDYKLA" (buvusi Akcinė bendrovė "Blankų leidykla")	950.45	EUR
 7911	1006786	UAB "BLANKŲ LEIDYKLA" (buvusi Akcinė bendrovė "Blankų leidykla")	13126.84	LTL
@@ -4509,8 +4510,8 @@
 8238	1007113	442-oji garažų statybos ir eksploatavimo bendrija	477.36	LTL
 8239	1007114	357-oji garažų statybos ir eksploatavimo bendrija	187.44	EUR
 8239	1007114	357-oji garažų statybos ir eksploatavimo bendrija	2588.80	LTL
-8240	1007115	UAB "Virnadė". Išieškojimas.	581.76	EUR
-8240	1007115	UAB "Virnadė". Išieškojimas.	7543.49	LTL
+8240	1007115	UAB "Virnadė"	581.76	EUR
+8240	1007115	UAB "Virnadė"	7543.49	LTL
 8241	1007116	386-oji garažų statybos ir eksploatavimo bendrija	241.37	EUR
 8241	1007116	386-oji garažų statybos ir eksploatavimo bendrija	3333.64	LTL
 8242	1007117	UŽDAROJI AKCINĖ BENDROVĖ "LOKSODROMA". Išieškojimas .	1875.38	EUR
@@ -7372,8 +7373,6 @@
 17433	0	U.".4.	4740.02	LTL
 17434	0	U.".3.	4741.97	LTL
 17434	0	U.".3.	824.02	EUR
-17436	0	V.P.	169.01	LTL
-17436	0	V.P.	48.99	EUR
 17437	0	Č.M.	378.15	LTL
 17438	0	D.D.	204.05	EUR
 17439	0	J.P.	40.61	EUR

@@ -501,6 +501,7 @@
 1241	1001241	288 - GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	252.25	EUR
 1241	1001241	288 - GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	3483.92	LTL
 1242	1001242	Garažo patalpų, esančių A. P. Kavoliuko g. 8a, Vilniuje, savininkų bendrija	1480.20	LTL
+1242	1001242	Garažo patalpų, esančių A. P. Kavoliuko g. 8a, Vilniuje, savininkų bendrija	107.17	EUR
 1243	0	M.T.	260.33	LTL
 1243	0	M.T.	12.62	EUR
 1247	1001247	UAB "Turo prekyba" (buvo "Vytaro servisas")	423.00	LTL
@@ -3927,6 +3928,7 @@
 7779	1006654	UAB „HELIOVALDA“	22373.96	LTL
 7780	1006655	Uždaroji akcinė bendrovė "PAGRATA"	8131.62	LTL
 7780	1006655	Uždaroji akcinė bendrovė "PAGRATA"	785.03	EUR
+7781	1006656	515-oji garažų statybos ir eksploatavimo bendrija	389.97	EUR
 7781	1006656	515-oji garažų statybos ir eksploatavimo bendrija	5373.92	LTL
 7782	1006657	Uždaroji akcinė bendrovė „Start Vilnius“	1203.38	EUR
 7782	1006657	Uždaroji akcinė bendrovė „Start Vilnius“	94746.82	LTL
@@ -4305,7 +4307,7 @@
 8063	1006938	Uždaroji akcinė bendrovė AAA	19173.89	LTL
 8064	0	P.T.	8561.87	LTL
 8065	1006940	Uždaroji akcinė bendrovė "DAN-LIT"	8583.03	LTL
-8066	0	V.J.	1396.89	EUR
+8066	0	V.J.	1405.89	EUR
 8066	0	V.J.	26983.09	LTL
 8067	1006942	Uždaroji akcinė bendrovė "STIKORA"	449.24	EUR
 8067	1006942	Uždaroji akcinė bendrovė "STIKORA"	6204.60	LTL
@@ -4955,7 +4957,7 @@
 8560	0	R.S.	5.97	EUR
 8560	0	R.S.	826.37	LTL
 8561	1007436	Uždaroji akcinė bendrovė "GRINDA"	47386.64	LTL
-8561	1007436	Uždaroji akcinė bendrovė "GRINDA"	9461.42	EUR
+8561	1007436	Uždaroji akcinė bendrovė "GRINDA"	9813.61	EUR
 8562	1007437	Uždaroji akcinė bendrovė "TILTUVA"	8730.26	LTL
 8565	1007440	Uždaroji akcinė bendrovė "EDMARIS". Išieškojimas.	6520.17	LTL
 8566	1007441	Uždaroji akcinė bendrovė"BETONO STATINIAI". Išieškojimas.  "	6465.00	LTL
@@ -6164,7 +6166,7 @@
 10508	1008401	Uždaroji akcinė bendrovė "FATUM INVESTICIJA"	13666.52	LTL
 10508	1008401	Uždaroji akcinė bendrovė "FATUM INVESTICIJA"	989.52	EUR
 10509	0	V.M.	7422.47	LTL
-10510	1008403	UŽDAROJI AKCINĖ BENDROVĖ "GARBETA"	1275.10	LTL
+10510	1008403	UŽDAROJI AKCINĖ BENDROVĖ "GARBETA". BANKROTAS. Likvidavimas	1275.10	LTL
 10511	0	J.K.	323.95	LTL
 10512	1008405	UAB "Naujamiesčio plėtros centras". Išieškojimas.	15423.87	LTL
 10513	0	J.B.	40.50	EUR
@@ -6935,7 +6937,6 @@
 13736	0	U.a.b.".	405.40	LTL
 13737	0	U.".B.	632.00	LTL
 13738	0	U.".s.	94.28	LTL
-13739	0	J.S.Ž.	107.17	EUR
 13740	0	U.a.b.".	124.94	EUR
 13740	0	U.a.b.".	1006.60	LTL
 13741	0	U.".&.J.	11668.94	LTL
@@ -7699,7 +7700,6 @@
 17740	0	U.".v.	3476.72	LTL
 17740	0	U.".v.	1006.93	EUR
 17741	0	S.S.	148.44	LTL
-17742	0	R.L.	389.97	EUR
 17743	0	U.".R.	579.74	EUR
 17743	0	U.".R.	2161.86	LTL
 17744	0	A.M.	462.26	LTL
@@ -7978,3 +7978,4 @@
 18109	0	U.M.	47.37	EUR
 18110	0	V.D.	5.78	EUR
 18111	0	U.a.b.".	10615.35	EUR
+18112	0	U.".	604.14	EUR

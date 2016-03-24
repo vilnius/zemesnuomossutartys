@@ -263,6 +263,7 @@
 700	0	Z.T.	170.85	LTL
 701	0	V.P.	10.18	EUR
 710	0	O.N.	103.68	LTL
+713	0	A.N.	7.51	EUR
 713	0	A.N.	130.83	LTL
 714	0	E.Z.	155.56	LTL
 728	0	G.T.	176.57	LTL
@@ -690,6 +691,7 @@
 1545	1001545	Uždaroji akcinė bendrovė "MILITEKSAS"	341.30	EUR
 1545	1001545	Uždaroji akcinė bendrovė "MILITEKSAS"	2515.81	LTL
 1546	1001546	Uždaroji akcinė bendrovė "IGNIKA". Išieškojimas.	4801.03	LTL
+1546	1001546	Uždaroji akcinė bendrovė "IGNIKA". Išieškojimas.	447.57	EUR
 1547	0	V.S.	392.48	LTL
 1552	0	A.J.	101.34	LTL
 1553	0	N.M.	506.70	LTL
@@ -2082,6 +2084,7 @@
 3735	1003735	Uždaroji akcinė bendrovė "LELIJA"	194519.75	LTL
 3735	1003735	Uždaroji akcinė bendrovė "LELIJA"	17077.39	EUR
 3736	1003736	Uždaroji akcinė bendrov  "ŽEMAIČIŲ LANŠA". Išieškojimas.	15531.42	LTL
+3736	1003736	Uždaroji akcinė bendrov  "ŽEMAIČIŲ LANŠA". Išieškojimas.	3072.21	EUR
 3737	0	C.F.	200.00	EUR
 3737	0	C.F.	389.18	LTL
 3738	1003738	Sodininkų bendrija "Teatralas"	57.75	LTL
@@ -3811,7 +3814,7 @@
 7683	1006558	428-oji garažų statybos ir eksploatavimo bendrija	233.92	EUR
 7683	1006558	428-oji garažų statybos ir eksploatavimo bendrija	3232.76	LTL
 7685	1006560	Uždaroji akcinė bendrovė "Salovė". Išieškojimas.  Bankrotas 2013-04-29. Likvidavimas 2014-06-26	1577.77	EUR
-7687	0	O.V.D.	796.72	EUR
+7687	0	O.V.D.	823.72	EUR
 7687	0	O.V.D.	1719.45	LTL
 7689	1006564	Uždaroji akcinė bendrovė "ŠIAULIŲ SKALBYKLA"	486.42	EUR
 7689	1006564	Uždaroji akcinė bendrovė "ŠIAULIŲ SKALBYKLA"	6718.08	LTL
@@ -4121,7 +4124,7 @@
 7932	0	B.S.G.	2000.00	LTL
 7933	1006808	Uždaroji akcinė bendrovė "ATARGATIS"	605.43	EUR
 7933	1006808	Uždaroji akcinė bendrovė "ATARGATIS"	22185.90	LTL
-7935	1006810	`UAB "VILNIAUS EJOTRA"	1206.55	EUR
+7935	1006810	`UAB "VILNIAUS EJOTRA"	1508.55	EUR
 7935	1006810	`UAB "VILNIAUS EJOTRA"	16663.84	LTL
 7936	1006811	348-oji garažų statybos ir eksploatavimo bendrija	140.26	EUR
 7936	1006811	348-oji garažų statybos ir eksploatavimo bendrija	1452.90	LTL
@@ -4358,7 +4361,7 @@
 8110	1006985	Sodininkų bendrija "KLEVAS"	590.32	LTL
 8111	1006986	463 - GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	196.26	EUR
 8111	1006986	463 - GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	2710.30	LTL
-8112	1006987	Uždaroji akcinė bendrovė "MULIENA"	954.49	EUR
+8112	1006987	Uždaroji akcinė bendrovė "MULIENA"	2067.79	EUR
 8112	1006987	Uždaroji akcinė bendrovė "MULIENA"	10242.96	LTL
 8113	1006988	Uždaroji akcinė bendrovė "NUMAS"	821.72	EUR
 8113	1006988	Uždaroji akcinė bendrovė "NUMAS"	11220.81	LTL

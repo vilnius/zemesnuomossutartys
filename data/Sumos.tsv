@@ -404,7 +404,7 @@
 1095	0	V.V.	19.59	EUR
 1095	0	V.V.	438.99	LTL
 1096	1001096	Valstybės įmonė Lietuvos paštas	424726.87	LTL
-1096	1001096	Valstybės įmonė Lietuvos paštas	20420.10	EUR
+1096	1001096	Valstybės įmonė Lietuvos paštas	20394.71	EUR
 1097	1001097	Uždaroji akcinė bendrovė "VILNIAUS VETERINARIJOS KLINIKINĖ LIGONINĖ"	773.70	LTL
 1098	0	M.D.	411.76	LTL
 1100	1001100	Uždaroji akcinė bendrovė "NAUJOSIOS VILNIOS VAISTINĖ"	92.03	LTL
@@ -691,7 +691,7 @@
 1545	1001545	Uždaroji akcinė bendrovė "MILITEKSAS"	341.30	EUR
 1545	1001545	Uždaroji akcinė bendrovė "MILITEKSAS"	2515.81	LTL
 1546	1001546	Uždaroji akcinė bendrovė "IGNIKA". Išieškojimas.	4801.03	LTL
-1546	1001546	Uždaroji akcinė bendrovė "IGNIKA". Išieškojimas.	447.57	EUR
+1546	1001546	Uždaroji akcinė bendrovė "IGNIKA". Išieškojimas.	997.57	EUR
 1547	0	V.S.	392.48	LTL
 1552	0	A.J.	101.34	LTL
 1553	0	N.M.	506.70	LTL
@@ -773,7 +773,7 @@
 1670	1001670	UAB "PAS LAUMĘ". Išieškojimas.	14869.37	LTL
 1671	1001671	UAB "DIDŽIOJI RAMUNĖ"	27864.80	LTL
 1671	1001671	UAB "DIDŽIOJI RAMUNĖ"	2017.55	EUR
-1672	1001672	Uždaroji akcinė bendrovė "AAA Astorija"	6582.12	EUR
+1672	1001672	Uždaroji akcinė bendrovė "AAA Astorija"	8227.65	EUR
 1672	1001672	Uždaroji akcinė bendrovė "AAA Astorija"	90906.96	LTL
 1673	0	E.H.	598.76	LTL
 1675	1001675	PRO KAPITAL VILNIUS REAL ESTATE UAB	1305.92	LTL
@@ -3277,7 +3277,7 @@
 7280	1006155	Uždaroji akcinė bendrovė "PASPARA"	5820.87	LTL
 7281	1006156	Uždaroji akcinė bendrovė "PASPARA" SVEČIŲ NAMAI	100.23	EUR
 7281	1006156	Uždaroji akcinė bendrovė "PASPARA" SVEČIŲ NAMAI	1384.32	LTL
-7282	1006157	Uždaroji akcinė bendrovė "DEKORAS"	1544.60	EUR
+7282	1006157	Uždaroji akcinė bendrovė "DEKORAS"	2070.11	EUR
 7282	1006157	Uždaroji akcinė bendrovė "DEKORAS"	23756.36	LTL
 7283	1006158	Uždaroji akcinė bendrovė "HAKONLITA"	73546.42	EUR
 7283	1006158	Uždaroji akcinė bendrovė "HAKONLITA"	791107.09	LTL
@@ -3354,7 +3354,7 @@
 7329	1006204	UAB "JARDAS"	1633.56	EUR
 7330	1006205	Uždaroji akcinė bendrovė "STAMAS"	55.80	EUR
 7330	1006205	Uždaroji akcinė bendrovė "STAMAS"	3418.60	LTL
-7331	1006206	Uždaroji akcinė bendrovė "METALCO BALTIC"	2669.80	EUR
+7331	1006206	Uždaroji akcinė bendrovė "METALCO BALTIC"	2735.48	EUR
 7331	1006206	Uždaroji akcinė bendrovė "METALCO BALTIC"	18609.85	LTL
 7332	1006207	AKCINĖ BENDROVĖ "SUSKYSTINTOS DUJOS"	8400.95	EUR
 7332	1006207	AKCINĖ BENDROVĖ "SUSKYSTINTOS DUJOS"	121787.82	LTL
@@ -3825,6 +3825,7 @@
 7690	0	J.P.	2816.62	LTL
 7692	1006567	Uždaroji akcinė bendrovė"DAIGAI"	3998.74	LTL
 7692	1006567	Uždaroji akcinė bendrovė"DAIGAI"	1158.12	EUR
+7693	1006568	Uždaroji akcinė bendrovė sveikatos centras "SANVITA".	3868.59	EUR
 7693	1006568	Uždaroji akcinė bendrovė sveikatos centras "SANVITA".	14877.45	LTL
 7694	0	V.J.	178.39	EUR
 7694	0	V.J.	1858.75	LTL
@@ -4199,7 +4200,7 @@
 7985	0	R.Ž.	374.76	LTL
 7986	1006861	Uždaroji akcinė bendrovė "GARDUNYTĖ"	83.95	EUR
 7986	1006861	Uždaroji akcinė bendrovė "GARDUNYTĖ"	1159.48	LTL
-7987	1006862	Uždaroji akcinė bendrovė "SERNETA". Bankrotas 2013-09-11	9428.36	LTL
+7987	1006862	Uždaroji akcinė bendrovė "SERNETA".Bankrotas 2013-09-11. LIKVIDAVIMAS 2016-03-10	9428.36	LTL
 7988	1006863	Uždaroji akcinė bendrovė "ROVITA"	5331.48	EUR
 7988	1006863	Uždaroji akcinė bendrovė "ROVITA"	78273.58	LTL
 7989	1006864	Rasteneco komercinė firma	6250.92	LTL
@@ -4800,6 +4801,7 @@
 8448	1007323	394-oji garažų statybos ir eksploatavimo bendrija	422.56	EUR
 8448	1007323	394-oji garažų statybos ir eksploatavimo bendrija	5773.79	LTL
 8449	0	M.T.	1446.26	LTL
+8451	0	K.J.L.	339.52	EUR
 8451	0	K.J.L.	1740.24	LTL
 8453	1007328	I.Kvik personali įmonė "RABELUS". Bankrotas 2013-06-14	1504.00	LTL
 8455	0	R.K.	245.37	EUR
@@ -5185,6 +5187,7 @@
 9720	1007613	Uždaroji akcinė bendrovė "AGA"	16105.02	LTL
 9722	1007615	Uždaroji akcinė bendrovė ABB	17868.31	LTL
 9722	1007615	Uždaroji akcinė bendrovė ABB	1293.75	EUR
+9723	0	J.B.	124.50	EUR
 9726	1007619	379-oji garažų statybos ir eksploatavimo bendrija	108.00	EUR
 9726	1007619	379-oji garažų statybos ir eksploatavimo bendrija	1479.80	LTL
 9727	0	V.J.	421.44	LTL
@@ -6313,7 +6316,7 @@
 12811	1009383	Uždaroji akcinė bendrovė "Morita"	1906.52	EUR
 12825	1009397	Uždaroji akcinė bendrovė "VIZORA"	823.00	EUR
 12825	1009397	Uždaroji akcinė bendrovė "VIZORA"	11471.00	LTL
-12826	1009398	A.Andrejevo tikroji ūkinė bendrija "Dyzelservisas"	1980.00	EUR
+12826	1009398	A.Andrejevo tikroji ūkinė bendrija "Dyzelservisas"	2475.00	EUR
 12826	1009398	A.Andrejevo tikroji ūkinė bendrija "Dyzelservisas"	13990.36	LTL
 12846	1009418	Akcinė bendrovė "PUNTUKAS"	61541.18	LTL
 12862	1009434	Uždaroji akcinė bendrovė "DELIKATA"	1849.10	EUR
@@ -6906,7 +6909,7 @@
 13705	0	R.S.	140.30	LTL
 13707	0	L.Š.	3.88	EUR
 13707	0	L.Š.	167.92	LTL
-13708	0	M.J.J.	2625.00	EUR
+13708	0	M.J.J.	4559.77	EUR
 13708	0	M.J.J.	7323.75	LTL
 13709	0	L.Z.	122.18	EUR
 13709	0	L.Z.	984.59	LTL
@@ -7125,7 +7128,7 @@
 15517	0	R.V.	582.50	LTL
 15547	0	B.J.	7.00	LTL
 15552	0	M.F.	6.11	EUR
-15567	0	S.K.	5.83	EUR
+15567	0	S.K.	17.48	EUR
 15567	0	S.K.	20.10	LTL
 15568	0	A.K.	144.08	LTL
 15577	0	L.P.	133.58	LTL
@@ -7625,7 +7628,7 @@
 17670	0	Ž.R.	30.66	EUR
 17671	0	A.G.	16.57	EUR
 17672	0	I.L.	8.90	EUR
-17673	0	I.S.	23.36	EUR
+17673	0	I.S.	47.77	EUR
 17675	0	A.R.	270.00	LTL
 17675	0	A.R.	78.00	EUR
 17676	0	J.S.	247.50	LTL
@@ -7974,11 +7977,12 @@
 18088	0	J.I.	4.61	EUR
 18089	0	G.P.	4.61	EUR
 18092	0	U.a.b.".P.	585.00	EUR
+18096	0	S.S.	.98	EUR
 18097	0	V.J.	34.88	EUR
 18098	0	A.L.	61.00	EUR
 18099	0	R.J.	3.13	EUR
 18100	0	U.".e.	60.00	EUR
-18101	0	J.V.	200.32	EUR
+18101	0	J.V.	300.48	EUR
 18102	0	M.".	66.00	EUR
 18103	0	U.".	73.45	EUR
 18104	0	J.M.	4.61	EUR
@@ -7989,3 +7993,6 @@
 18110	0	V.D.	5.78	EUR
 18111	0	U.a.b.".	10615.35	EUR
 18112	0	U.".	604.14	EUR
+18113	0	U.".p.	2688.17	EUR
+18115	0	U.".	149.00	EUR
+18116	0	G.K.	31.50	EUR

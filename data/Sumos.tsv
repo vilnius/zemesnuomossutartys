@@ -1532,7 +1532,7 @@
 2818	1002818	Uždaroji akcinė bendrovė "STAKLIJA"	12259.02	LTL
 2819	1002819	Uždaroji akcinė bendrovė "GEOLOGINIAI TYRIMAI"	267.00	EUR
 2819	1002819	Uždaroji akcinė bendrovė "GEOLOGINIAI TYRIMAI"	4612.50	LTL
-2820	1002820	Uždaroji akcinė bendrovė"AUTOMEGA".	558.92	EUR
+2820	1002820	Uždaroji akcinė bendrovė"AUTOMEGA".	708.92	EUR
 2820	1002820	Uždaroji akcinė bendrovė"AUTOMEGA".	9150.35	LTL
 2821	0	J.V.	2707.17	LTL
 2823	1002823	Uždaroji akcinė bendrovė "PERDANGA"	5509.91	EUR
@@ -2170,6 +2170,7 @@
 3867	0	K.M.	25.70	EUR
 3873	1003873	UAB „REMARKO“	1154.26	LTL
 3880	1003880	Uždaroji akcinė bendrovė "PROKRIDA"	1188.84	LTL
+3880	1003880	Uždaroji akcinė bendrovė "PROKRIDA"	89.00	EUR
 3881	1003881	616-oji garažų statybos ir eksploatavimo bendrija	254.64	LTL
 3881	1003881	616-oji garažų statybos ir eksploatavimo bendrija	18.45	EUR
 3886	0	K.P.	65.24	LTL
@@ -2516,7 +2517,7 @@
 4615	0	Z.M.	359.11	LTL
 4620	0	V.B.	1353.00	LTL
 4622	1004622	21 - oji laikinų metalinių garažų statybos ir eksploatavimo bendrija. Išieškojimas.	29246.84	LTL
-4622	1004622	21 - oji laikinų metalinių garažų statybos ir eksploatavimo bendrija. Išieškojimas.	1029.24	EUR
+4622	1004622	21 - oji laikinų metalinių garažų statybos ir eksploatavimo bendrija. Išieškojimas.	1329.24	EUR
 4624	0	A.R.	2259.10	LTL
 4627	0	V.M.	853.22	LTL
 4628	0	P.M.	2424.73	LTL
@@ -2678,7 +2679,7 @@
 4916	1004916	323-oji garažų statybos ir eksploatavimo bendrija	86.75	EUR
 4917	1004917	441 - oji garažų statybos ir ekploatavimo bendrija	172.38	EUR
 4917	1004917	441 - oji garažų statybos ir ekploatavimo bendrija	2385.33	LTL
-4918	1004918	293-oji garažų statybos ir eksploatavimo bendrija	73.40	EUR
+4918	1004918	293-oji garažų statybos ir eksploatavimo bendrija	136.80	EUR
 4918	1004918	293-oji garažų statybos ir eksploatavimo bendrija	253.44	LTL
 4919	1004919	257-oji garažų statybos ir eksploatavimo bendrija	1733.87	LTL
 4919	1004919	257-oji garažų statybos ir eksploatavimo bendrija	100.86	EUR
@@ -4351,8 +4352,8 @@
 8090	1006965	Uždaroji akcinė bendrovė "ELSIS"	685.25	EUR
 8090	1006965	Uždaroji akcinė bendrovė "ELSIS"	9464.20	LTL
 8091	1006966	Sodininkų bendrija "SAULUTĖ"	314.84	LTL
-8093	0	A.S.I.	382.13	EUR
-8094	0	Ž.S.I.	330.49	EUR
+8093	0	A.S.I.	436.22	EUR
+8094	0	Ž.S.I.	376.56	EUR
 8095	1006970	Uždaroji akcinė bendrovė "Telekonta"	73.56	EUR
 8095	1006970	Uždaroji akcinė bendrovė "Telekonta"	1594.00	LTL
 8098	1006973	UAB "Kriptonika"	4663.33	LTL
@@ -6106,6 +6107,7 @@
 10435	0	J.V.	279.69	LTL
 10436	1008329	Uždaroji akcinė bendrovė "SINGLIS"	176.90	EUR
 10436	1008329	Uždaroji akcinė bendrovė "SINGLIS"	2443.29	LTL
+10437	1008330	617-oji garažų statybos ir eksploatavimo bendrija	132.33	EUR
 10437	1008330	617-oji garažų statybos ir eksploatavimo bendrija	1776.72	LTL
 10438	0	G.R.	6.24	EUR
 10438	0	G.R.	107.69	LTL
@@ -7786,7 +7788,7 @@
 17790	0	U.,.G.	12581.38	EUR
 17792	0	U.".I.	216.80	EUR
 17793	0	U.".	616.31	EUR
-17794	0	U.".	1004.00	EUR
+17794	0	U.".	2110.02	EUR
 17795	0	U.".	171.83	EUR
 17796	0	R.O.V.	32.74	EUR
 17797	0	U.".I.	23024.64	EUR
@@ -8009,3 +8011,4 @@
 18117	0	U.E.S.	11.30	EUR
 18118	0	S.J.	752.28	EUR
 18119	0	A.A.	54.06	EUR
+18120	0	U.a.b.".	211.00	EUR

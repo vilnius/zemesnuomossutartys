@@ -404,8 +404,8 @@
 1094	0	M.V.	19.59	EUR
 1095	0	V.V.	19.59	EUR
 1095	0	V.V.	438.99	LTL
-1096	1001096	Valstybės įmonė Lietuvos paštas	424726.87	LTL
-1096	1001096	Valstybės įmonė Lietuvos paštas	20394.71	EUR
+1096	1001096	Valstybės įmonė Lietuvos paštas	424403.54	LTL
+1096	1001096	Valstybės įmonė Lietuvos paštas	20333.16	EUR
 1097	1001097	Uždaroji akcinė bendrovė "VILNIAUS VETERINARIJOS KLINIKINĖ LIGONINĖ"	773.70	LTL
 1098	0	M.D.	411.76	LTL
 1100	1001100	Uždaroji akcinė bendrovė "NAUJOSIOS VILNIOS VAISTINĖ"	92.03	LTL
@@ -490,6 +490,7 @@
 1223	0	J.V.	403.15	LTL
 1223	0	J.V.	23.35	EUR
 1224	0	A.Ž.	275.36	LTL
+1224	0	A.Ž.	54.75	EUR
 1225	0	O.B.	131.00	EUR
 1225	0	O.B.	424.80	LTL
 1226	0	J.B.J.	350.00	LTL
@@ -677,6 +678,7 @@
 1495	0	E.V.	169.04	LTL
 1500	0	A.K.	32.38	LTL
 1509	0	V.A.	131.64	LTL
+1511	0	E.S.	61.55	EUR
 1511	0	E.S.	419.17	LTL
 1512	1001512	475-oji garažų statybos ir eksploatavimo bendrija	4049.09	LTL
 1512	1001512	475-oji garažų statybos ir eksploatavimo bendrija	160.00	EUR
@@ -1690,6 +1692,7 @@
 3049	1003049	592-oji garažų statybos ir eksploatavimo bendrija	1066.41	EUR
 3049	1003049	592-oji garažų statybos ir eksploatavimo bendrija	13489.56	LTL
 3051	0	S.M.	9.78	LTL
+3054	1003054	461-oji garažų statybos ir eksploatavimų bendrija	77.51	EUR
 3054	1003054	461-oji garažų statybos ir eksploatavimų bendrija	387.33	LTL
 3058	0	A.K.	136.00	LTL
 3059	0	A.Š.	59.54	EUR
@@ -2313,7 +2316,7 @@
 4214	0	A.G.	1.88	EUR
 4219	0	B.S.	9.48	LTL
 4220	1004220	543-oji garažų statybos ir eksploatavimo bendrija	93.64	EUR
-4220	1004220	543-oji garažų statybos ir eksploatavimo bendrija	969.99	LTL
+4220	1004220	543-oji garažų statybos ir eksploatavimo bendrija	1293.32	LTL
 4221	1004221	521-oji garažų statybos ir eksploatavimo bendrija	1991.68	LTL
 4221	1004221	521-oji garažų statybos ir eksploatavimo bendrija	144.21	EUR
 4222	1004222	UAB "RES OPTIMA". Išieškojimas.	40240.99	LTL
@@ -2718,6 +2721,7 @@
 4980	0	B.Š.	142.91	LTL
 4983	0	M.Š.	535.79	LTL
 4986	1004986	Bendra Lietuvos,Lenkijos-Vokietijos įmonė uždaroji akcinė bendrovė "LITBANA"	19996.39	LTL
+4986	1004986	Bendra Lietuvos,Lenkijos-Vokietijos įmonė uždaroji akcinė bendrovė "LITBANA"	557.23	EUR
 4988	0	D.G.	859.13	LTL
 4988	0	D.G.	61.62	EUR
 4991	0	J.D.	444.26	LTL
@@ -5571,7 +5575,7 @@
 10009	1007902	Uždaroji akcinė bendrovė "BALGRA"	19799.06	LTL
 10010	1007903	Akcinė bendrovė "KILIMAI"	2304.19	EUR
 10010	1007903	Akcinė bendrovė "KILIMAI"	10464.04	LTL
-10013	1007906	UŽDAROJI AKCINĖ BENDROVĖ "GOLBENA"	7271.78	LTL
+10013	1007906	UŽDAROJI AKCINĖ BENDROVĖ "GOLBENA". BANKROTAS	7271.78	LTL
 10014	1007907	Uždaroji akcinė bendrovė "ELEKTROTECHNINIŲ GAMINIŲ SERTIFIKAVIMO CENTRAS"	3230.04	LTL
 10014	1007907	Uždaroji akcinė bendrovė "ELEKTROTECHNINIŲ GAMINIŲ SERTIFIKAVIMO CENTRAS"	153.86	EUR
 10017	1007910	Stanislavos Pacevičienės individuali įmonė	413.82	LTL
@@ -6582,6 +6586,7 @@
 13379	0	7.d.n.s.b.	10145.00	LTL
 13380	0	U.".	307.00	EUR
 13380	0	U.".	2854.66	LTL
+13381	0	V.į.".V.m.	1539.87	EUR
 13381	0	V.į.".V.m.	6325.20	LTL
 13382	0	A.V.	96.62	EUR
 13382	0	A.V.	998.32	LTL
@@ -7266,7 +7271,6 @@
 17259	0	R.D.	349.52	LTL
 17260	0	V.D.	349.52	LTL
 17260	0	V.D.	109.11	EUR
-17261	1012064	UAB "LITSERA"	1454.52	EUR
 17261	1012064	UAB "LITSERA"	5703.63	LTL
 17262	1012065	UAB "Sapiegos Namai"	1542.27	EUR
 17262	1012065	UAB "Sapiegos Namai"	9122.20	LTL
@@ -7483,7 +7487,7 @@
 17481	0	A.	268.28	LTL
 17481	0	A.	46.62	EUR
 17482	0	B.V.	7726.80	LTL
-17482	0	B.V.	800.00	EUR
+17482	0	B.V.	2254.52	EUR
 17483	0	U.M.C.	1082.00	EUR
 17483	0	U.M.C.	2926.00	LTL
 17484	0	V.P.C.	3045.79	EUR

@@ -3542,6 +3542,7 @@
 7448	1006323	UAB "FLEXPRO"	4613.84	LTL
 7449	1006324	292-oji garažų statybos ir eksploatavimo bendrija	262.57	EUR
 7449	1006324	292-oji garažų statybos ir eksploatavimo bendrija	3626.40	LTL
+7451	1006326	Sodininkų benrija "TELEGRAFISTAS"	31.75	EUR
 7451	1006326	Sodininkų benrija "TELEGRAFISTAS"	413.80	LTL
 7452	1006327	636-oji garažų statybos ir eksploatavimo bendrija"AUŠRA"	102.94	EUR
 7452	1006327	636-oji garažų statybos ir eksploatavimo bendrija"AUŠRA"	1432.41	LTL
@@ -4490,6 +4491,7 @@
 8195	1007070	T.TAREILIO ĮMONĖ "GRĘŽIMO STAKLĖS"	488.02	EUR
 8195	1007070	T.TAREILIO ĮMONĖ "GRĘŽIMO STAKLĖS"	4200.00	LTL
 8196	1007071	Uždaroji akcinė bendrovė "BALTVEDA"	134.00	LTL
+8197	1007072	Uždaroji akcinė bendrovė " Srava "	1537.24	EUR
 8197	1007072	Uždaroji akcinė bendrovė " Srava "	6442.58	LTL
 8198	1007073	Mokslinė - gamybinė akcinė bendrovė "PRECIZIKA"	69617.52	LTL
 8198	1007073	Mokslinė - gamybinė akcinė bendrovė "PRECIZIKA"	4265.09	EUR
@@ -6278,7 +6280,7 @@
 10555	1008448	Uždaroji akcinė bendrovė "KORALINIS RIFAS"	37647.46	LTL
 10556	0	G.B.	1072.53	EUR
 10556	0	G.B.	14833.90	LTL
-10557	1008450	UAB "Aušros sprendimai"	750.89	EUR
+10557	1008450	UAB "Aušros sprendimai"	668.38	EUR
 10557	1008450	UAB "Aušros sprendimai"	4581.00	LTL
 10559	0	G.Š.	52.26	EUR
 10559	0	G.Š.	412.91	LTL
@@ -6370,7 +6372,7 @@
 12913	1009485	Uždaroji akcinė bendrovė "DIAGNOSTIKOS POLIKLINIKA"	2148.71	EUR
 12914	1009486	Uždaroji akcine bendrove "Femina bona"	50.19	EUR
 12914	1009486	Uždaroji akcine bendrove "Femina bona"	358.00	LTL
-12959	1009531	Uždaroji akcinė bendrovė "Petrolana". Išieškojimas .	5048.82	EUR
+12959	1009531	Uždaroji akcinė bendrovė "Petrolana". Išieškojimas .	4628.82	EUR
 12968	1009540	V. Juškos įmonė "PLASTVIS"	8224.60	EUR
 12968	1009540	V. Juškos įmonė "PLASTVIS"	5327.00	LTL
 12983	1009555	UAB "PAVASARIS"	12271.05	EUR
@@ -6680,7 +6682,7 @@
 13469	0	R.P.	73.84	EUR
 13469	0	R.P.	697.46	LTL
 13473	0	L.v.p.r.".	472.54	LTL
-13476	0	I.p.	154.56	EUR
+13476	0	I.p.	186.56	EUR
 13476	0	I.p.	1415.65	LTL
 13477	0	U.".p.	28.00	EUR
 13477	0	U.".p.	352.00	LTL
@@ -7881,8 +7883,8 @@
 17890	0	E.S.	5.57	EUR
 17891	0	E.V.	5.57	EUR
 17893	1012693	UAB "Antakalnio prekyba"	999.10	EUR
-17895	0	L.C.	19.98	EUR
-17896	0	A.L.	40.02	EUR
+17895	0	L.C.	69.49	EUR
+17896	0	A.L.	154.28	EUR
 17900	0	G.R.	27.84	EUR
 17904	0	A.S.	3.84	EUR
 17905	0	R.Č.	.93	EUR

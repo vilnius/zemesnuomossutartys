@@ -1141,6 +1141,7 @@
 2190	1002190	Uždaroji akcinė bendrovė "TROJA"	10722.27	EUR
 2190	1002190	Uždaroji akcinė bendrovė "TROJA"	148864.81	LTL
 2191	1002191	Uždaroji akcinė bendrovė "TEZAURUS"	146.60	LTL
+2191	1002191	Uždaroji akcinė bendrovė "TEZAURUS"	41.94	EUR
 2196	0	D.R.	655.96	LTL
 2207	0	V.K.	361.49	LTL
 2213	0	V.J.M.	1095.76	LTL
@@ -3090,7 +3091,7 @@
 5711	1005711	Uždaroji akcinė bendrovė "LIETUVOS SUVENYRAS"	619.03	LTL
 5712	0	R.P.	87.50	LTL
 5713	1005713	425-oji garažų statybos ir eksploatavimo bendrija	1386.78	LTL
-5714	1005714	390-oji garažų statybos ir eksploatavimo bendrija	109.30	EUR
+5714	1005714	390-oji garažų statybos ir eksploatavimo bendrija	582.95	EUR
 5714	1005714	390-oji garažų statybos ir eksploatavimo bendrija	1370.57	LTL
 5720	1005720	514-oji garažų statybos ir eksploatavimo bendrija	251.00	EUR
 5720	1005720	514-oji garažų statybos ir eksploatavimo bendrija	4414.69	LTL
@@ -3389,14 +3390,14 @@
 7337	0	N.K.	830.03	EUR
 7337	0	N.K.	14329.60	LTL
 7338	1006213	UAB „KOMERCIJOS VYSTYMO KOMPANIJA-2“ ("Selvaag Lietuva")	33618.13	LTL
-7339	1006214	483-OJI GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	437.12	EUR
+7339	1006214	483-OJI GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	655.68	EUR
 7339	1006214	483-OJI GARAŽŲ STATYBOS IR EKSPLOATAVIMO BENDRIJA	3018.52	LTL
 7341	1006216	Sodininkų bendrija "GEOLOGAS"	42.15	EUR
 7341	1006216	Sodininkų bendrija "GEOLOGAS"	570.23	LTL
 7342	1006217	Akcinė bendrovė "VILNIAUS SIGMA"	19201.90	EUR
 7342	1006217	Akcinė bendrovė "VILNIAUS SIGMA"	297562.68	LTL
 7343	1006218	UŽDAROJI AKCINĖ BENDROVĖ "SULTYS"	36365.00	LTL
-7343	1006218	UŽDAROJI AKCINĖ BENDROVĖ "SULTYS"	2633.01	EUR
+7343	1006218	UŽDAROJI AKCINĖ BENDROVĖ "SULTYS"	5266.02	EUR
 7344	0	J.N.I.	2887.21	EUR
 7345	1006220	UAB "ALPILRA"	206.11	EUR
 7345	1006220	UAB "ALPILRA"	2846.64	LTL
@@ -3565,7 +3566,7 @@
 7459	1006334	Lavicko komercinė - tarpininkavimo įmonė "MARGO"	755.92	LTL
 7460	1006335	Akcinė bendrovė "Invaldos nekilnojamojo turto fondas"	11733.22	EUR
 7460	1006335	Akcinė bendrovė "Invaldos nekilnojamojo turto fondas"	151798.60	LTL
-7462	1006337	Uždaroji akcinė bendrovė "PATRIA DOMI". Išieškojimas. Bankrotas 2012-07-17	15623.52	LTL
+7462	1006337	Uždaroji akcinė bendrovė "PATRIA DOMI". Išieškojimas. Bankrotas 2012-07-17Likvidavimas 2016-01-06	15623.52	LTL
 7464	1006339	605-oji garažų statybos ir eksplotavimo bendrija	103.00	EUR
 7464	1006339	605-oji garažų statybos ir eksplotavimo bendrija	705.70	LTL
 7465	0	A.K.	642.14	LTL
@@ -4559,7 +4560,7 @@
 8236	1007111	Uždaroji akcinė bendrovė "Trinitronas"	14720.00	LTL
 8237	1007112	Uždaroji akcinė bendrovė "OBERONAS IR KOMPANIJA"	295.10	EUR
 8237	1007112	Uždaroji akcinė bendrovė "OBERONAS IR KOMPANIJA"	4075.72	LTL
-8238	1007113	442-oji garažų statybos ir eksploatavimo bendrija	34.56	EUR
+8238	1007113	442-oji garažų statybos ir eksploatavimo bendrija	69.12	EUR
 8238	1007113	442-oji garažų statybos ir eksploatavimo bendrija	477.36	LTL
 8239	1007114	357-oji garažų statybos ir eksploatavimo bendrija	187.44	EUR
 8239	1007114	357-oji garažų statybos ir eksploatavimo bendrija	2588.80	LTL
@@ -5316,6 +5317,7 @@
 9787	0	J.D.	6.12	EUR
 9787	0	J.D.	106.47	LTL
 9788	0	R.B.	192.35	LTL
+9789	1007682	UAB "Pajūrio turto investicijos" Bankrotas 2009-06-05. Likvidavimas 2010-03-01	49.89	EUR
 9790	0	L.T.	49.34	EUR
 9790	0	L.T.	867.00	LTL
 9791	0	A.J.	1461.60	LTL
@@ -5500,7 +5502,7 @@
 9937	1007830	St.Stanionio restauravimo ateljė	685.43	EUR
 9937	1007830	St.Stanionio restauravimo ateljė	11857.74	LTL
 9939	0	A.B.	537.73	LTL
-9941	1007834	Valstybės įmonė "VILNIAUS METROLOGIJOS CENTRAS"	6592.50	EUR
+9941	1007834	Valstybės įmonė "VILNIAUS METROLOGIJOS CENTRAS"	7691.25	EUR
 9941	1007834	Valstybės įmonė "VILNIAUS METROLOGIJOS CENTRAS"	73395.00	LTL
 9942	0	D.R.	773.98	LTL
 9943	1007836	Uždaroji akcinė bendrovė "PAKRAŠTYS" (iš AB93-336Akcinė bendrovė "PAKRAŠTYS")	23246.47	LTL
@@ -6512,6 +6514,7 @@
 13231	0	J.M.	17.52	LTL
 13233	0	G.Š.	3.82	EUR
 13233	0	G.Š.	40.00	LTL
+13235	0	R.M.	37.65	EUR
 13235	0	R.M.	411.11	LTL
 13238	0	J.F.	420.57	LTL
 13239	0	A.M.	1220.08	LTL
@@ -7843,7 +7846,7 @@
 17789	0	A.B.	69.81	LTL
 17790	0	U.,.G.	43441.00	LTL
 17790	0	U.,.G.	12581.38	EUR
-17792	0	U.".I.	216.80	EUR
+17792	0	U.".I.	714.95	EUR
 17793	0	U.".	616.31	EUR
 17794	0	U.".	2110.02	EUR
 17795	0	U.".	171.83	EUR

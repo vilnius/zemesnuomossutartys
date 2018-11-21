@@ -1,10 +1,10 @@
 
 @echo off
 
-set server=SERVER\SQLEXPRESS
-set database=System.Vilnius
-set user=opendata
-set pass=opendata999
+set server=
+set database=
+set user=
+set pass=
 
 set ftpHost=127.0.0.1
 set ftpUser=scpigit
